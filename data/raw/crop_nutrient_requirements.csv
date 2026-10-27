@@ -1,0 +1,31 @@
+crop_id,nutrient,nutrient_form,recommended_quantity,quantity_unit,application_basis,conditions,source
+C01,N,N,500,g/palm/year,per plant,Adult bearing palm,Provisional_unverified_crop_dose
+C01,P,P2O5,320,g/palm/year,per plant,Adult bearing palm,Provisional_unverified_crop_dose
+C01,K,K2O,1200,g/palm/year,per plant,Adult bearing palm,Provisional_unverified_crop_dose
+C02,N,N,100,g/palm/year,per plant,Adult bearing palm,Provisional_unverified_crop_dose
+C02,P,P2O5,40,g/palm/year,per plant,Adult bearing palm,Provisional_unverified_crop_dose
+C02,K,K2O,140,g/palm/year,per plant,Adult bearing palm,Provisional_unverified_crop_dose
+C03,N,N,50,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C03,P,P2O5,40,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C03,K,K2O,25,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C04,N,N,100,kg/ha,per crop,General provisional dose; production system not specified,Provisional_unverified_crop_dose
+C04,P,P2O5,50,kg/ha,per crop,General provisional dose; production system not specified,Provisional_unverified_crop_dose
+C04,K,K2O,50,kg/ha,per crop,General provisional dose; production system not specified,Provisional_unverified_crop_dose
+C05,N,N,200,g/plant/cycle,per plant,Planting density and cultivar not specified,Provisional_unverified_crop_dose
+C05,P,P2O5,100,g/plant/cycle,per plant,Planting density and cultivar not specified,Provisional_unverified_crop_dose
+C05,K,K2O,300,g/plant/cycle,per plant,Planting density and cultivar not specified,Provisional_unverified_crop_dose
+C06,N,N,20,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C06,P,P2O5,40,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C06,K,K2O,0,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C07,N,N,25,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C07,P,P2O5,50,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C07,K,K2O,0,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C08,N,N,25,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C08,P,P2O5,50,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C08,K,K2O,25,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C09,N,N,25,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C09,P,P2O5,50,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C09,K,K2O,0,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C10,N,N,80,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C10,P,P2O5,40,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose
+C10,K,K2O,40,kg/ha,per crop,General provisional dose,Provisional_unverified_crop_dose

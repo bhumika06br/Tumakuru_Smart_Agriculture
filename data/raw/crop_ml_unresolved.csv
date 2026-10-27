@@ -1,0 +1,2067 @@
+scenario_id,crop_id,soil_type,season,pH,air_temperature,air_humidity,reason_unresolved
+SCN0001,C04,Red loamy soils,Monsoon,6.75,20.47,66.92,No documented crop-soil-season rule
+SCN0001,C06,Red loamy soils,Monsoon,6.75,20.47,66.92,No documented crop-soil-season rule
+SCN0001,C07,Red loamy soils,Monsoon,6.75,20.47,66.92,No documented crop-soil-season rule
+SCN0002,C04,Red sandy loam soils,Monsoon,7.21,21.39,70.56,No documented crop-soil-season rule
+SCN0002,C06,Red sandy loam soils,Monsoon,7.21,21.39,70.56,No documented crop-soil-season rule
+SCN0002,C07,Red sandy loam soils,Monsoon,7.21,21.39,70.56,No documented crop-soil-season rule
+SCN0003,C03,Loamy soils,Monsoon,5.65,23.04,76.22,No documented crop-soil-season rule
+SCN0003,C06,Loamy soils,Monsoon,5.65,23.04,76.22,No documented crop-soil-season rule
+SCN0003,C07,Loamy soils,Monsoon,5.65,23.04,76.22,No documented crop-soil-season rule
+SCN0003,C08,Loamy soils,Monsoon,5.65,23.04,76.22,No documented crop-soil-season rule
+SCN0003,C09,Loamy soils,Monsoon,5.65,23.04,76.22,No documented crop-soil-season rule
+SCN0003,C10,Loamy soils,Monsoon,5.65,23.04,76.22,No documented crop-soil-season rule
+SCN0004,C02,Red loamy soils,Post-monsoon,7.06,18.19,75.08,No documented crop-soil-season rule
+SCN0004,C04,Red loamy soils,Post-monsoon,7.06,18.19,75.08,No documented crop-soil-season rule
+SCN0004,C06,Red loamy soils,Post-monsoon,7.06,18.19,75.08,No documented crop-soil-season rule
+SCN0004,C08,Red loamy soils,Post-monsoon,7.06,18.19,75.08,No documented crop-soil-season rule
+SCN0004,C09,Red loamy soils,Post-monsoon,7.06,18.19,75.08,No documented crop-soil-season rule
+SCN0004,C10,Red loamy soils,Post-monsoon,7.06,18.19,75.08,No documented crop-soil-season rule
+SCN0005,C02,Red sandy loam soils,Post-monsoon,7.32,22.75,57.4,No documented crop-soil-season rule
+SCN0005,C04,Red sandy loam soils,Post-monsoon,7.32,22.75,57.4,No documented crop-soil-season rule
+SCN0005,C05,Red sandy loam soils,Post-monsoon,7.32,22.75,57.4,No documented crop-soil-season rule
+SCN0005,C07,Red sandy loam soils,Post-monsoon,7.32,22.75,57.4,No documented crop-soil-season rule
+SCN0005,C08,Red sandy loam soils,Post-monsoon,7.32,22.75,57.4,No documented crop-soil-season rule
+SCN0005,C09,Red sandy loam soils,Post-monsoon,7.32,22.75,57.4,No documented crop-soil-season rule
+SCN0006,C04,Red loamy soils,Monsoon,7.05,30.9,80.72,No documented crop-soil-season rule
+SCN0006,C06,Red loamy soils,Monsoon,7.05,30.9,80.72,No documented crop-soil-season rule
+SCN0006,C07,Red loamy soils,Monsoon,7.05,30.9,80.72,No documented crop-soil-season rule
+SCN0007,C03,Loamy soils,Monsoon,7.09,29.25,87.16,No documented crop-soil-season rule
+SCN0007,C06,Loamy soils,Monsoon,7.09,29.25,87.16,No documented crop-soil-season rule
+SCN0007,C07,Loamy soils,Monsoon,7.09,29.25,87.16,No documented crop-soil-season rule
+SCN0007,C08,Loamy soils,Monsoon,7.09,29.25,87.16,No documented crop-soil-season rule
+SCN0007,C09,Loamy soils,Monsoon,7.09,29.25,87.16,No documented crop-soil-season rule
+SCN0007,C10,Loamy soils,Monsoon,7.09,29.25,87.16,No documented crop-soil-season rule
+SCN0008,C04,Red sandy loam soils,Monsoon,6.01,24.38,71.68,No documented crop-soil-season rule
+SCN0008,C06,Red sandy loam soils,Monsoon,6.01,24.38,71.68,No documented crop-soil-season rule
+SCN0008,C07,Red sandy loam soils,Monsoon,6.01,24.38,71.68,No documented crop-soil-season rule
+SCN0009,C04,Red sandy loam soils,Monsoon,6.56,24.23,62.98,No documented crop-soil-season rule
+SCN0009,C06,Red sandy loam soils,Monsoon,6.56,24.23,62.98,No documented crop-soil-season rule
+SCN0009,C07,Red sandy loam soils,Monsoon,6.56,24.23,62.98,No documented crop-soil-season rule
+SCN0010,C04,Red loamy soils,Monsoon,6.59,28.33,56.06,No documented crop-soil-season rule
+SCN0010,C06,Red loamy soils,Monsoon,6.59,28.33,56.06,No documented crop-soil-season rule
+SCN0010,C07,Red loamy soils,Monsoon,6.59,28.33,56.06,No documented crop-soil-season rule
+SCN0011,C01,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0011,C02,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0011,C05,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0011,C06,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0011,C07,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0011,C08,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0011,C10,Sandy clay loam soils,Monsoon,7.38,28.85,69.48,No documented crop-soil-season rule
+SCN0012,C02,Red sandy loam soils,Post-monsoon,5.63,16.61,56.08,No documented crop-soil-season rule
+SCN0012,C04,Red sandy loam soils,Post-monsoon,5.63,16.61,56.08,No documented crop-soil-season rule
+SCN0012,C05,Red sandy loam soils,Post-monsoon,5.63,16.61,56.08,No documented crop-soil-season rule
+SCN0012,C07,Red sandy loam soils,Post-monsoon,5.63,16.61,56.08,No documented crop-soil-season rule
+SCN0012,C08,Red sandy loam soils,Post-monsoon,5.63,16.61,56.08,No documented crop-soil-season rule
+SCN0012,C09,Red sandy loam soils,Post-monsoon,5.63,16.61,56.08,No documented crop-soil-season rule
+SCN0013,C02,Red loamy soils,Post-monsoon,7.12,21.07,67.91,No documented crop-soil-season rule
+SCN0013,C04,Red loamy soils,Post-monsoon,7.12,21.07,67.91,No documented crop-soil-season rule
+SCN0013,C06,Red loamy soils,Post-monsoon,7.12,21.07,67.91,No documented crop-soil-season rule
+SCN0013,C08,Red loamy soils,Post-monsoon,7.12,21.07,67.91,No documented crop-soil-season rule
+SCN0013,C09,Red loamy soils,Post-monsoon,7.12,21.07,67.91,No documented crop-soil-season rule
+SCN0013,C10,Red loamy soils,Post-monsoon,7.12,21.07,67.91,No documented crop-soil-season rule
+SCN0014,C01,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C02,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C04,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C05,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C06,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C07,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C09,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0014,C10,Red sandy loam soils,Summer,5.71,24.49,59.64,No documented crop-soil-season rule
+SCN0015,C03,Loamy soils,Monsoon,6.32,24.0,94.84,No documented crop-soil-season rule
+SCN0015,C06,Loamy soils,Monsoon,6.32,24.0,94.84,No documented crop-soil-season rule
+SCN0015,C07,Loamy soils,Monsoon,6.32,24.0,94.84,No documented crop-soil-season rule
+SCN0015,C08,Loamy soils,Monsoon,6.32,24.0,94.84,No documented crop-soil-season rule
+SCN0015,C09,Loamy soils,Monsoon,6.32,24.0,94.84,No documented crop-soil-season rule
+SCN0015,C10,Loamy soils,Monsoon,6.32,24.0,94.84,No documented crop-soil-season rule
+SCN0016,C01,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0016,C02,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0016,C05,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0016,C06,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0016,C07,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0016,C08,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0016,C10,Sandy clay loam soils,Monsoon,5.8,31.27,89.74,No documented crop-soil-season rule
+SCN0017,C01,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C02,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C03,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C05,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C06,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C07,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C08,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C09,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0017,C10,Loamy soils,Summer,7.39,30.46,89.18,No documented crop-soil-season rule
+SCN0018,C04,Red loamy soils,Monsoon,7.17,28.73,68.05,No documented crop-soil-season rule
+SCN0018,C06,Red loamy soils,Monsoon,7.17,28.73,68.05,No documented crop-soil-season rule
+SCN0018,C07,Red loamy soils,Monsoon,7.17,28.73,68.05,No documented crop-soil-season rule
+SCN0019,C03,Loamy soils,Monsoon,6.64,36.99,86.2,No documented crop-soil-season rule
+SCN0019,C06,Loamy soils,Monsoon,6.64,36.99,86.2,No documented crop-soil-season rule
+SCN0019,C07,Loamy soils,Monsoon,6.64,36.99,86.2,No documented crop-soil-season rule
+SCN0019,C08,Loamy soils,Monsoon,6.64,36.99,86.2,No documented crop-soil-season rule
+SCN0019,C09,Loamy soils,Monsoon,6.64,36.99,86.2,No documented crop-soil-season rule
+SCN0019,C10,Loamy soils,Monsoon,6.64,36.99,86.2,No documented crop-soil-season rule
+SCN0020,C04,Red sandy loam soils,Monsoon,7.7,35.34,68.99,No documented crop-soil-season rule
+SCN0020,C06,Red sandy loam soils,Monsoon,7.7,35.34,68.99,No documented crop-soil-season rule
+SCN0020,C07,Red sandy loam soils,Monsoon,7.7,35.34,68.99,No documented crop-soil-season rule
+SCN0021,C02,Red loamy soils,Post-monsoon,7.35,26.24,78.3,No documented crop-soil-season rule
+SCN0021,C04,Red loamy soils,Post-monsoon,7.35,26.24,78.3,No documented crop-soil-season rule
+SCN0021,C06,Red loamy soils,Post-monsoon,7.35,26.24,78.3,No documented crop-soil-season rule
+SCN0021,C08,Red loamy soils,Post-monsoon,7.35,26.24,78.3,No documented crop-soil-season rule
+SCN0021,C09,Red loamy soils,Post-monsoon,7.35,26.24,78.3,No documented crop-soil-season rule
+SCN0021,C10,Red loamy soils,Post-monsoon,7.35,26.24,78.3,No documented crop-soil-season rule
+SCN0022,C02,Red sandy loam soils,Post-monsoon,5.14,30.71,79.54,No documented crop-soil-season rule
+SCN0022,C04,Red sandy loam soils,Post-monsoon,5.14,30.71,79.54,No documented crop-soil-season rule
+SCN0022,C05,Red sandy loam soils,Post-monsoon,5.14,30.71,79.54,No documented crop-soil-season rule
+SCN0022,C07,Red sandy loam soils,Post-monsoon,5.14,30.71,79.54,No documented crop-soil-season rule
+SCN0022,C08,Red sandy loam soils,Post-monsoon,5.14,30.71,79.54,No documented crop-soil-season rule
+SCN0022,C09,Red sandy loam soils,Post-monsoon,5.14,30.71,79.54,No documented crop-soil-season rule
+SCN0023,C01,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C02,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C03,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C04,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C05,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C07,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C08,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C09,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0023,C10,Sandy soils,Post-monsoon,7.12,31.01,43.85,No documented crop-soil-season rule
+SCN0024,C01,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C02,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C03,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C04,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C05,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C07,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C08,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C09,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0024,C10,Red sandy loam soils,Winter,6.86,14.39,61.39,No documented crop-soil-season rule
+SCN0025,C01,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C02,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C03,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C04,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C05,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C07,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C08,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C09,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0025,C10,Sandy soils,Winter,6.07,15.87,64.27,No documented crop-soil-season rule
+SCN0026,C02,Red loamy soils,Post-monsoon,7.89,24.37,55.35,No documented crop-soil-season rule
+SCN0026,C04,Red loamy soils,Post-monsoon,7.89,24.37,55.35,No documented crop-soil-season rule
+SCN0026,C06,Red loamy soils,Post-monsoon,7.89,24.37,55.35,No documented crop-soil-season rule
+SCN0026,C08,Red loamy soils,Post-monsoon,7.89,24.37,55.35,No documented crop-soil-season rule
+SCN0026,C09,Red loamy soils,Post-monsoon,7.89,24.37,55.35,No documented crop-soil-season rule
+SCN0026,C10,Red loamy soils,Post-monsoon,7.89,24.37,55.35,No documented crop-soil-season rule
+SCN0027,C01,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C02,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C03,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C04,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C05,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C06,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C08,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0027,C09,Sandy clay loam soils,Post-monsoon,6.71,23.4,48.11,No documented crop-soil-season rule
+SCN0028,C01,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C02,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C03,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C04,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C05,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C06,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C08,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C09,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0028,C10,Red loamy soils,Winter,6.51,26.22,65.02,No documented crop-soil-season rule
+SCN0029,C04,Red sandy loam soils,Monsoon,5.99,22.06,82.66,No documented crop-soil-season rule
+SCN0029,C06,Red sandy loam soils,Monsoon,5.99,22.06,82.66,No documented crop-soil-season rule
+SCN0029,C07,Red sandy loam soils,Monsoon,5.99,22.06,82.66,No documented crop-soil-season rule
+SCN0030,C04,Red loamy soils,Monsoon,7.05,22.92,53.47,No documented crop-soil-season rule
+SCN0030,C06,Red loamy soils,Monsoon,7.05,22.92,53.47,No documented crop-soil-season rule
+SCN0030,C07,Red loamy soils,Monsoon,7.05,22.92,53.47,No documented crop-soil-season rule
+SCN0031,C01,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C02,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C04,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C05,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C06,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C07,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C09,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0031,C10,Red sandy loam soils,Summer,6.91,32.74,74.35,No documented crop-soil-season rule
+SCN0032,C04,Red sandy loam soils,Monsoon,7.15,23.78,56.72,No documented crop-soil-season rule
+SCN0032,C06,Red sandy loam soils,Monsoon,7.15,23.78,56.72,No documented crop-soil-season rule
+SCN0032,C07,Red sandy loam soils,Monsoon,7.15,23.78,56.72,No documented crop-soil-season rule
+SCN0033,C04,Red loamy soils,Monsoon,6.05,33.76,65.52,No documented crop-soil-season rule
+SCN0033,C06,Red loamy soils,Monsoon,6.05,33.76,65.52,No documented crop-soil-season rule
+SCN0033,C07,Red loamy soils,Monsoon,6.05,33.76,65.52,No documented crop-soil-season rule
+SCN0034,C01,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0034,C02,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0034,C05,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0034,C06,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0034,C07,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0034,C08,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0034,C10,Sandy clay loam soils,Monsoon,7.4,32.47,83.82,No documented crop-soil-season rule
+SCN0035,C04,Red sandy loam soils,Monsoon,6.96,23.9,56.06,No documented crop-soil-season rule
+SCN0035,C06,Red sandy loam soils,Monsoon,6.96,23.9,56.06,No documented crop-soil-season rule
+SCN0035,C07,Red sandy loam soils,Monsoon,6.96,23.9,56.06,No documented crop-soil-season rule
+SCN0036,C04,Red loamy soils,Monsoon,6.34,34.06,58.21,No documented crop-soil-season rule
+SCN0036,C06,Red loamy soils,Monsoon,6.34,34.06,58.21,No documented crop-soil-season rule
+SCN0036,C07,Red loamy soils,Monsoon,6.34,34.06,58.21,No documented crop-soil-season rule
+SCN0037,C02,Red sandy loam soils,Post-monsoon,7.16,28.89,41.26,No documented crop-soil-season rule
+SCN0037,C04,Red sandy loam soils,Post-monsoon,7.16,28.89,41.26,No documented crop-soil-season rule
+SCN0037,C05,Red sandy loam soils,Post-monsoon,7.16,28.89,41.26,No documented crop-soil-season rule
+SCN0037,C07,Red sandy loam soils,Post-monsoon,7.16,28.89,41.26,No documented crop-soil-season rule
+SCN0037,C08,Red sandy loam soils,Post-monsoon,7.16,28.89,41.26,No documented crop-soil-season rule
+SCN0037,C09,Red sandy loam soils,Post-monsoon,7.16,28.89,41.26,No documented crop-soil-season rule
+SCN0038,C01,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C02,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C03,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C04,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C05,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C06,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C08,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0038,C09,Sandy clay loam soils,Post-monsoon,7.12,29.41,37.38,No documented crop-soil-season rule
+SCN0039,C04,Red loamy soils,Monsoon,5.88,34.32,62.09,No documented crop-soil-season rule
+SCN0039,C06,Red loamy soils,Monsoon,5.88,34.32,62.09,No documented crop-soil-season rule
+SCN0039,C07,Red loamy soils,Monsoon,5.88,34.32,62.09,No documented crop-soil-season rule
+SCN0040,C04,Red sandy loam soils,Monsoon,6.02,21.87,82.18,No documented crop-soil-season rule
+SCN0040,C06,Red sandy loam soils,Monsoon,6.02,21.87,82.18,No documented crop-soil-season rule
+SCN0040,C07,Red sandy loam soils,Monsoon,6.02,21.87,82.18,No documented crop-soil-season rule
+SCN0041,C03,Loamy soils,Monsoon,6.35,28.74,73.07,No documented crop-soil-season rule
+SCN0041,C06,Loamy soils,Monsoon,6.35,28.74,73.07,No documented crop-soil-season rule
+SCN0041,C07,Loamy soils,Monsoon,6.35,28.74,73.07,No documented crop-soil-season rule
+SCN0041,C08,Loamy soils,Monsoon,6.35,28.74,73.07,No documented crop-soil-season rule
+SCN0041,C09,Loamy soils,Monsoon,6.35,28.74,73.07,No documented crop-soil-season rule
+SCN0041,C10,Loamy soils,Monsoon,6.35,28.74,73.07,No documented crop-soil-season rule
+SCN0042,C02,Red loamy soils,Post-monsoon,6.03,23.56,71.76,No documented crop-soil-season rule
+SCN0042,C04,Red loamy soils,Post-monsoon,6.03,23.56,71.76,No documented crop-soil-season rule
+SCN0042,C06,Red loamy soils,Post-monsoon,6.03,23.56,71.76,No documented crop-soil-season rule
+SCN0042,C08,Red loamy soils,Post-monsoon,6.03,23.56,71.76,No documented crop-soil-season rule
+SCN0042,C09,Red loamy soils,Post-monsoon,6.03,23.56,71.76,No documented crop-soil-season rule
+SCN0042,C10,Red loamy soils,Post-monsoon,6.03,23.56,71.76,No documented crop-soil-season rule
+SCN0043,C02,Red sandy loam soils,Post-monsoon,5.73,24.42,79.86,No documented crop-soil-season rule
+SCN0043,C04,Red sandy loam soils,Post-monsoon,5.73,24.42,79.86,No documented crop-soil-season rule
+SCN0043,C05,Red sandy loam soils,Post-monsoon,5.73,24.42,79.86,No documented crop-soil-season rule
+SCN0043,C07,Red sandy loam soils,Post-monsoon,5.73,24.42,79.86,No documented crop-soil-season rule
+SCN0043,C08,Red sandy loam soils,Post-monsoon,5.73,24.42,79.86,No documented crop-soil-season rule
+SCN0043,C09,Red sandy loam soils,Post-monsoon,5.73,24.42,79.86,No documented crop-soil-season rule
+SCN0044,C04,Red loamy soils,Monsoon,6.08,33.91,87.54,No documented crop-soil-season rule
+SCN0044,C06,Red loamy soils,Monsoon,6.08,33.91,87.54,No documented crop-soil-season rule
+SCN0044,C07,Red loamy soils,Monsoon,6.08,33.91,87.54,No documented crop-soil-season rule
+SCN0045,C03,Loamy soils,Monsoon,7.1,30.51,82.21,No documented crop-soil-season rule
+SCN0045,C06,Loamy soils,Monsoon,7.1,30.51,82.21,No documented crop-soil-season rule
+SCN0045,C07,Loamy soils,Monsoon,7.1,30.51,82.21,No documented crop-soil-season rule
+SCN0045,C08,Loamy soils,Monsoon,7.1,30.51,82.21,No documented crop-soil-season rule
+SCN0045,C09,Loamy soils,Monsoon,7.1,30.51,82.21,No documented crop-soil-season rule
+SCN0045,C10,Loamy soils,Monsoon,7.1,30.51,82.21,No documented crop-soil-season rule
+SCN0046,C04,Red sandy loam soils,Monsoon,7.07,24.53,83.24,No documented crop-soil-season rule
+SCN0046,C06,Red sandy loam soils,Monsoon,7.07,24.53,83.24,No documented crop-soil-season rule
+SCN0046,C07,Red sandy loam soils,Monsoon,7.07,24.53,83.24,No documented crop-soil-season rule
+SCN0047,C04,Red sandy loam soils,Monsoon,5.35,27.39,59.58,No documented crop-soil-season rule
+SCN0047,C06,Red sandy loam soils,Monsoon,5.35,27.39,59.58,No documented crop-soil-season rule
+SCN0047,C07,Red sandy loam soils,Monsoon,5.35,27.39,59.58,No documented crop-soil-season rule
+SCN0048,C04,Red loamy soils,Monsoon,6.56,22.53,67.1,No documented crop-soil-season rule
+SCN0048,C06,Red loamy soils,Monsoon,6.56,22.53,67.1,No documented crop-soil-season rule
+SCN0048,C07,Red loamy soils,Monsoon,6.56,22.53,67.1,No documented crop-soil-season rule
+SCN0049,C01,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0049,C02,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0049,C05,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0049,C06,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0049,C07,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0049,C08,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0049,C10,Sandy clay loam soils,Monsoon,6.07,22.75,50.22,No documented crop-soil-season rule
+SCN0050,C02,Red sandy loam soils,Post-monsoon,6.8,24.82,59.98,No documented crop-soil-season rule
+SCN0050,C04,Red sandy loam soils,Post-monsoon,6.8,24.82,59.98,No documented crop-soil-season rule
+SCN0050,C05,Red sandy loam soils,Post-monsoon,6.8,24.82,59.98,No documented crop-soil-season rule
+SCN0050,C07,Red sandy loam soils,Post-monsoon,6.8,24.82,59.98,No documented crop-soil-season rule
+SCN0050,C08,Red sandy loam soils,Post-monsoon,6.8,24.82,59.98,No documented crop-soil-season rule
+SCN0050,C09,Red sandy loam soils,Post-monsoon,6.8,24.82,59.98,No documented crop-soil-season rule
+SCN0051,C02,Red loamy soils,Post-monsoon,7.18,24.72,74.14,No documented crop-soil-season rule
+SCN0051,C04,Red loamy soils,Post-monsoon,7.18,24.72,74.14,No documented crop-soil-season rule
+SCN0051,C06,Red loamy soils,Post-monsoon,7.18,24.72,74.14,No documented crop-soil-season rule
+SCN0051,C08,Red loamy soils,Post-monsoon,7.18,24.72,74.14,No documented crop-soil-season rule
+SCN0051,C09,Red loamy soils,Post-monsoon,7.18,24.72,74.14,No documented crop-soil-season rule
+SCN0051,C10,Red loamy soils,Post-monsoon,7.18,24.72,74.14,No documented crop-soil-season rule
+SCN0052,C01,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C02,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C04,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C05,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C06,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C07,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C09,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0052,C10,Red sandy loam soils,Summer,5.81,36.1,67.81,No documented crop-soil-season rule
+SCN0053,C03,Loamy soils,Monsoon,6.05,21.93,89.45,No documented crop-soil-season rule
+SCN0053,C06,Loamy soils,Monsoon,6.05,21.93,89.45,No documented crop-soil-season rule
+SCN0053,C07,Loamy soils,Monsoon,6.05,21.93,89.45,No documented crop-soil-season rule
+SCN0053,C08,Loamy soils,Monsoon,6.05,21.93,89.45,No documented crop-soil-season rule
+SCN0053,C09,Loamy soils,Monsoon,6.05,21.93,89.45,No documented crop-soil-season rule
+SCN0053,C10,Loamy soils,Monsoon,6.05,21.93,89.45,No documented crop-soil-season rule
+SCN0054,C01,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0054,C02,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0054,C05,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0054,C06,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0054,C07,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0054,C08,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0054,C10,Sandy clay loam soils,Monsoon,5.88,36.65,91.54,No documented crop-soil-season rule
+SCN0055,C01,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C02,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C03,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C05,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C06,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C07,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C08,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C09,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0055,C10,Loamy soils,Summer,5.64,33.74,73.34,No documented crop-soil-season rule
+SCN0056,C04,Red loamy soils,Monsoon,7.46,23.38,83.56,No documented crop-soil-season rule
+SCN0056,C06,Red loamy soils,Monsoon,7.46,23.38,83.56,No documented crop-soil-season rule
+SCN0056,C07,Red loamy soils,Monsoon,7.46,23.38,83.56,No documented crop-soil-season rule
+SCN0057,C03,Loamy soils,Monsoon,6.11,34.27,73.82,No documented crop-soil-season rule
+SCN0057,C06,Loamy soils,Monsoon,6.11,34.27,73.82,No documented crop-soil-season rule
+SCN0057,C07,Loamy soils,Monsoon,6.11,34.27,73.82,No documented crop-soil-season rule
+SCN0057,C08,Loamy soils,Monsoon,6.11,34.27,73.82,No documented crop-soil-season rule
+SCN0057,C09,Loamy soils,Monsoon,6.11,34.27,73.82,No documented crop-soil-season rule
+SCN0057,C10,Loamy soils,Monsoon,6.11,34.27,73.82,No documented crop-soil-season rule
+SCN0058,C04,Red sandy loam soils,Monsoon,5.65,21.92,69.88,No documented crop-soil-season rule
+SCN0058,C06,Red sandy loam soils,Monsoon,5.65,21.92,69.88,No documented crop-soil-season rule
+SCN0058,C07,Red sandy loam soils,Monsoon,5.65,21.92,69.88,No documented crop-soil-season rule
+SCN0059,C02,Red loamy soils,Post-monsoon,7.08,23.61,84.34,No documented crop-soil-season rule
+SCN0059,C04,Red loamy soils,Post-monsoon,7.08,23.61,84.34,No documented crop-soil-season rule
+SCN0059,C06,Red loamy soils,Post-monsoon,7.08,23.61,84.34,No documented crop-soil-season rule
+SCN0059,C08,Red loamy soils,Post-monsoon,7.08,23.61,84.34,No documented crop-soil-season rule
+SCN0059,C09,Red loamy soils,Post-monsoon,7.08,23.61,84.34,No documented crop-soil-season rule
+SCN0059,C10,Red loamy soils,Post-monsoon,7.08,23.61,84.34,No documented crop-soil-season rule
+SCN0060,C02,Red sandy loam soils,Post-monsoon,7.33,18.1,83.31,No documented crop-soil-season rule
+SCN0060,C04,Red sandy loam soils,Post-monsoon,7.33,18.1,83.31,No documented crop-soil-season rule
+SCN0060,C05,Red sandy loam soils,Post-monsoon,7.33,18.1,83.31,No documented crop-soil-season rule
+SCN0060,C07,Red sandy loam soils,Post-monsoon,7.33,18.1,83.31,No documented crop-soil-season rule
+SCN0060,C08,Red sandy loam soils,Post-monsoon,7.33,18.1,83.31,No documented crop-soil-season rule
+SCN0060,C09,Red sandy loam soils,Post-monsoon,7.33,18.1,83.31,No documented crop-soil-season rule
+SCN0061,C01,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C02,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C03,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C04,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C05,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C07,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C08,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C09,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0061,C10,Sandy soils,Post-monsoon,6.78,20.37,67.28,No documented crop-soil-season rule
+SCN0062,C01,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C02,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C03,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C04,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C05,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C07,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C08,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C09,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0062,C10,Red sandy loam soils,Winter,5.69,24.72,40.08,No documented crop-soil-season rule
+SCN0063,C01,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C02,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C03,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C04,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C05,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C07,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C08,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C09,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0063,C10,Sandy soils,Winter,6.81,24.04,56.39,No documented crop-soil-season rule
+SCN0064,C02,Red loamy soils,Post-monsoon,6.67,27.5,65.15,No documented crop-soil-season rule
+SCN0064,C04,Red loamy soils,Post-monsoon,6.67,27.5,65.15,No documented crop-soil-season rule
+SCN0064,C06,Red loamy soils,Post-monsoon,6.67,27.5,65.15,No documented crop-soil-season rule
+SCN0064,C08,Red loamy soils,Post-monsoon,6.67,27.5,65.15,No documented crop-soil-season rule
+SCN0064,C09,Red loamy soils,Post-monsoon,6.67,27.5,65.15,No documented crop-soil-season rule
+SCN0064,C10,Red loamy soils,Post-monsoon,6.67,27.5,65.15,No documented crop-soil-season rule
+SCN0065,C01,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C02,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C03,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C04,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C05,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C06,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C08,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0065,C09,Sandy clay loam soils,Post-monsoon,6.82,18.77,44.53,No documented crop-soil-season rule
+SCN0066,C01,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C02,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C03,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C04,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C05,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C06,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C08,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C09,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0066,C10,Red loamy soils,Winter,7.73,21.06,45.57,No documented crop-soil-season rule
+SCN0067,C04,Red sandy loam soils,Monsoon,6.37,28.68,72.88,No documented crop-soil-season rule
+SCN0067,C06,Red sandy loam soils,Monsoon,6.37,28.68,72.88,No documented crop-soil-season rule
+SCN0067,C07,Red sandy loam soils,Monsoon,6.37,28.68,72.88,No documented crop-soil-season rule
+SCN0068,C04,Red loamy soils,Monsoon,6.45,33.44,77.8,No documented crop-soil-season rule
+SCN0068,C06,Red loamy soils,Monsoon,6.45,33.44,77.8,No documented crop-soil-season rule
+SCN0068,C07,Red loamy soils,Monsoon,6.45,33.44,77.8,No documented crop-soil-season rule
+SCN0069,C01,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C02,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C04,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C05,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C06,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C07,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C09,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0069,C10,Red sandy loam soils,Summer,6.74,27.4,68.58,No documented crop-soil-season rule
+SCN0070,C04,Red sandy loam soils,Monsoon,5.96,20.46,58.62,No documented crop-soil-season rule
+SCN0070,C06,Red sandy loam soils,Monsoon,5.96,20.46,58.62,No documented crop-soil-season rule
+SCN0070,C07,Red sandy loam soils,Monsoon,5.96,20.46,58.62,No documented crop-soil-season rule
+SCN0071,C04,Red loamy soils,Monsoon,6.35,29.42,56.87,No documented crop-soil-season rule
+SCN0071,C06,Red loamy soils,Monsoon,6.35,29.42,56.87,No documented crop-soil-season rule
+SCN0071,C07,Red loamy soils,Monsoon,6.35,29.42,56.87,No documented crop-soil-season rule
+SCN0072,C01,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0072,C02,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0072,C05,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0072,C06,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0072,C07,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0072,C08,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0072,C10,Sandy clay loam soils,Monsoon,6.78,20.18,76.23,No documented crop-soil-season rule
+SCN0073,C04,Red sandy loam soils,Monsoon,6.09,37.15,60.71,No documented crop-soil-season rule
+SCN0073,C06,Red sandy loam soils,Monsoon,6.09,37.15,60.71,No documented crop-soil-season rule
+SCN0073,C07,Red sandy loam soils,Monsoon,6.09,37.15,60.71,No documented crop-soil-season rule
+SCN0074,C04,Red loamy soils,Monsoon,6.88,34.37,66.67,No documented crop-soil-season rule
+SCN0074,C06,Red loamy soils,Monsoon,6.88,34.37,66.67,No documented crop-soil-season rule
+SCN0074,C07,Red loamy soils,Monsoon,6.88,34.37,66.67,No documented crop-soil-season rule
+SCN0075,C02,Red sandy loam soils,Post-monsoon,8.1,27.01,63.73,No documented crop-soil-season rule
+SCN0075,C04,Red sandy loam soils,Post-monsoon,8.1,27.01,63.73,No documented crop-soil-season rule
+SCN0075,C05,Red sandy loam soils,Post-monsoon,8.1,27.01,63.73,No documented crop-soil-season rule
+SCN0075,C07,Red sandy loam soils,Post-monsoon,8.1,27.01,63.73,No documented crop-soil-season rule
+SCN0075,C08,Red sandy loam soils,Post-monsoon,8.1,27.01,63.73,No documented crop-soil-season rule
+SCN0075,C09,Red sandy loam soils,Post-monsoon,8.1,27.01,63.73,No documented crop-soil-season rule
+SCN0076,C01,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C02,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C03,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C04,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C05,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C06,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C08,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0076,C09,Sandy clay loam soils,Post-monsoon,8.11,29.34,53.99,No documented crop-soil-season rule
+SCN0077,C04,Red loamy soils,Monsoon,6.98,27.82,75.64,No documented crop-soil-season rule
+SCN0077,C06,Red loamy soils,Monsoon,6.98,27.82,75.64,No documented crop-soil-season rule
+SCN0077,C07,Red loamy soils,Monsoon,6.98,27.82,75.64,No documented crop-soil-season rule
+SCN0078,C04,Red sandy loam soils,Monsoon,6.09,24.83,73.5,No documented crop-soil-season rule
+SCN0078,C06,Red sandy loam soils,Monsoon,6.09,24.83,73.5,No documented crop-soil-season rule
+SCN0078,C07,Red sandy loam soils,Monsoon,6.09,24.83,73.5,No documented crop-soil-season rule
+SCN0079,C03,Loamy soils,Monsoon,6.87,21.05,70.21,No documented crop-soil-season rule
+SCN0079,C06,Loamy soils,Monsoon,6.87,21.05,70.21,No documented crop-soil-season rule
+SCN0079,C07,Loamy soils,Monsoon,6.87,21.05,70.21,No documented crop-soil-season rule
+SCN0079,C08,Loamy soils,Monsoon,6.87,21.05,70.21,No documented crop-soil-season rule
+SCN0079,C09,Loamy soils,Monsoon,6.87,21.05,70.21,No documented crop-soil-season rule
+SCN0079,C10,Loamy soils,Monsoon,6.87,21.05,70.21,No documented crop-soil-season rule
+SCN0080,C02,Red loamy soils,Post-monsoon,6.36,30.59,69.59,No documented crop-soil-season rule
+SCN0080,C04,Red loamy soils,Post-monsoon,6.36,30.59,69.59,No documented crop-soil-season rule
+SCN0080,C06,Red loamy soils,Post-monsoon,6.36,30.59,69.59,No documented crop-soil-season rule
+SCN0080,C08,Red loamy soils,Post-monsoon,6.36,30.59,69.59,No documented crop-soil-season rule
+SCN0080,C09,Red loamy soils,Post-monsoon,6.36,30.59,69.59,No documented crop-soil-season rule
+SCN0080,C10,Red loamy soils,Post-monsoon,6.36,30.59,69.59,No documented crop-soil-season rule
+SCN0081,C02,Red sandy loam soils,Post-monsoon,6.28,18.18,63.82,No documented crop-soil-season rule
+SCN0081,C04,Red sandy loam soils,Post-monsoon,6.28,18.18,63.82,No documented crop-soil-season rule
+SCN0081,C05,Red sandy loam soils,Post-monsoon,6.28,18.18,63.82,No documented crop-soil-season rule
+SCN0081,C07,Red sandy loam soils,Post-monsoon,6.28,18.18,63.82,No documented crop-soil-season rule
+SCN0081,C08,Red sandy loam soils,Post-monsoon,6.28,18.18,63.82,No documented crop-soil-season rule
+SCN0081,C09,Red sandy loam soils,Post-monsoon,6.28,18.18,63.82,No documented crop-soil-season rule
+SCN0082,C04,Red loamy soils,Monsoon,6.35,31.16,80.91,No documented crop-soil-season rule
+SCN0082,C06,Red loamy soils,Monsoon,6.35,31.16,80.91,No documented crop-soil-season rule
+SCN0082,C07,Red loamy soils,Monsoon,6.35,31.16,80.91,No documented crop-soil-season rule
+SCN0083,C03,Loamy soils,Monsoon,6.38,20.53,76.76,No documented crop-soil-season rule
+SCN0083,C06,Loamy soils,Monsoon,6.38,20.53,76.76,No documented crop-soil-season rule
+SCN0083,C07,Loamy soils,Monsoon,6.38,20.53,76.76,No documented crop-soil-season rule
+SCN0083,C08,Loamy soils,Monsoon,6.38,20.53,76.76,No documented crop-soil-season rule
+SCN0083,C09,Loamy soils,Monsoon,6.38,20.53,76.76,No documented crop-soil-season rule
+SCN0083,C10,Loamy soils,Monsoon,6.38,20.53,76.76,No documented crop-soil-season rule
+SCN0084,C04,Red sandy loam soils,Monsoon,6.44,21.99,82.42,No documented crop-soil-season rule
+SCN0084,C06,Red sandy loam soils,Monsoon,6.44,21.99,82.42,No documented crop-soil-season rule
+SCN0084,C07,Red sandy loam soils,Monsoon,6.44,21.99,82.42,No documented crop-soil-season rule
+SCN0085,C04,Red sandy loam soils,Monsoon,5.16,28.9,54.82,No documented crop-soil-season rule
+SCN0085,C06,Red sandy loam soils,Monsoon,5.16,28.9,54.82,No documented crop-soil-season rule
+SCN0085,C07,Red sandy loam soils,Monsoon,5.16,28.9,54.82,No documented crop-soil-season rule
+SCN0086,C04,Red loamy soils,Monsoon,5.59,23.59,76.59,No documented crop-soil-season rule
+SCN0086,C06,Red loamy soils,Monsoon,5.59,23.59,76.59,No documented crop-soil-season rule
+SCN0086,C07,Red loamy soils,Monsoon,5.59,23.59,76.59,No documented crop-soil-season rule
+SCN0087,C01,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0087,C02,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0087,C05,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0087,C06,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0087,C07,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0087,C08,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0087,C10,Sandy clay loam soils,Monsoon,5.68,19.48,50.77,No documented crop-soil-season rule
+SCN0088,C02,Red sandy loam soils,Post-monsoon,6.6,28.44,67.78,No documented crop-soil-season rule
+SCN0088,C04,Red sandy loam soils,Post-monsoon,6.6,28.44,67.78,No documented crop-soil-season rule
+SCN0088,C05,Red sandy loam soils,Post-monsoon,6.6,28.44,67.78,No documented crop-soil-season rule
+SCN0088,C07,Red sandy loam soils,Post-monsoon,6.6,28.44,67.78,No documented crop-soil-season rule
+SCN0088,C08,Red sandy loam soils,Post-monsoon,6.6,28.44,67.78,No documented crop-soil-season rule
+SCN0088,C09,Red sandy loam soils,Post-monsoon,6.6,28.44,67.78,No documented crop-soil-season rule
+SCN0089,C02,Red loamy soils,Post-monsoon,5.15,18.51,49.49,No documented crop-soil-season rule
+SCN0089,C04,Red loamy soils,Post-monsoon,5.15,18.51,49.49,No documented crop-soil-season rule
+SCN0089,C06,Red loamy soils,Post-monsoon,5.15,18.51,49.49,No documented crop-soil-season rule
+SCN0089,C08,Red loamy soils,Post-monsoon,5.15,18.51,49.49,No documented crop-soil-season rule
+SCN0089,C09,Red loamy soils,Post-monsoon,5.15,18.51,49.49,No documented crop-soil-season rule
+SCN0089,C10,Red loamy soils,Post-monsoon,5.15,18.51,49.49,No documented crop-soil-season rule
+SCN0090,C01,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C02,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C04,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C05,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C06,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C07,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C09,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0090,C10,Red sandy loam soils,Summer,6.71,33.75,45.94,No documented crop-soil-season rule
+SCN0091,C03,Loamy soils,Monsoon,7.07,37.27,72.78,No documented crop-soil-season rule
+SCN0091,C06,Loamy soils,Monsoon,7.07,37.27,72.78,No documented crop-soil-season rule
+SCN0091,C07,Loamy soils,Monsoon,7.07,37.27,72.78,No documented crop-soil-season rule
+SCN0091,C08,Loamy soils,Monsoon,7.07,37.27,72.78,No documented crop-soil-season rule
+SCN0091,C09,Loamy soils,Monsoon,7.07,37.27,72.78,No documented crop-soil-season rule
+SCN0091,C10,Loamy soils,Monsoon,7.07,37.27,72.78,No documented crop-soil-season rule
+SCN0092,C01,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0092,C02,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0092,C05,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0092,C06,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0092,C07,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0092,C08,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0092,C10,Sandy clay loam soils,Monsoon,7.32,27.16,87.83,No documented crop-soil-season rule
+SCN0093,C01,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C02,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C03,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C05,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C06,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C07,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C08,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C09,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0093,C10,Loamy soils,Summer,5.78,34.31,86.19,No documented crop-soil-season rule
+SCN0094,C04,Red loamy soils,Monsoon,7.4,24.97,72.87,No documented crop-soil-season rule
+SCN0094,C06,Red loamy soils,Monsoon,7.4,24.97,72.87,No documented crop-soil-season rule
+SCN0094,C07,Red loamy soils,Monsoon,7.4,24.97,72.87,No documented crop-soil-season rule
+SCN0095,C03,Loamy soils,Monsoon,7.55,34.38,63.25,No documented crop-soil-season rule
+SCN0095,C06,Loamy soils,Monsoon,7.55,34.38,63.25,No documented crop-soil-season rule
+SCN0095,C07,Loamy soils,Monsoon,7.55,34.38,63.25,No documented crop-soil-season rule
+SCN0095,C08,Loamy soils,Monsoon,7.55,34.38,63.25,No documented crop-soil-season rule
+SCN0095,C09,Loamy soils,Monsoon,7.55,34.38,63.25,No documented crop-soil-season rule
+SCN0095,C10,Loamy soils,Monsoon,7.55,34.38,63.25,No documented crop-soil-season rule
+SCN0096,C04,Red sandy loam soils,Monsoon,7.23,26.72,81.97,No documented crop-soil-season rule
+SCN0096,C06,Red sandy loam soils,Monsoon,7.23,26.72,81.97,No documented crop-soil-season rule
+SCN0096,C07,Red sandy loam soils,Monsoon,7.23,26.72,81.97,No documented crop-soil-season rule
+SCN0097,C02,Red loamy soils,Post-monsoon,6.84,25.19,68.08,No documented crop-soil-season rule
+SCN0097,C04,Red loamy soils,Post-monsoon,6.84,25.19,68.08,No documented crop-soil-season rule
+SCN0097,C06,Red loamy soils,Post-monsoon,6.84,25.19,68.08,No documented crop-soil-season rule
+SCN0097,C08,Red loamy soils,Post-monsoon,6.84,25.19,68.08,No documented crop-soil-season rule
+SCN0097,C09,Red loamy soils,Post-monsoon,6.84,25.19,68.08,No documented crop-soil-season rule
+SCN0097,C10,Red loamy soils,Post-monsoon,6.84,25.19,68.08,No documented crop-soil-season rule
+SCN0098,C02,Red sandy loam soils,Post-monsoon,7.01,16.56,79.67,No documented crop-soil-season rule
+SCN0098,C04,Red sandy loam soils,Post-monsoon,7.01,16.56,79.67,No documented crop-soil-season rule
+SCN0098,C05,Red sandy loam soils,Post-monsoon,7.01,16.56,79.67,No documented crop-soil-season rule
+SCN0098,C07,Red sandy loam soils,Post-monsoon,7.01,16.56,79.67,No documented crop-soil-season rule
+SCN0098,C08,Red sandy loam soils,Post-monsoon,7.01,16.56,79.67,No documented crop-soil-season rule
+SCN0098,C09,Red sandy loam soils,Post-monsoon,7.01,16.56,79.67,No documented crop-soil-season rule
+SCN0099,C01,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C02,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C03,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C04,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C05,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C07,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C08,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C09,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0099,C10,Sandy soils,Post-monsoon,5.97,15.58,78.29,No documented crop-soil-season rule
+SCN0100,C01,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C02,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C03,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C04,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C05,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C07,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C08,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C09,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0100,C10,Red sandy loam soils,Winter,5.88,27.77,71.55,No documented crop-soil-season rule
+SCN0101,C01,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C02,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C03,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C04,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C05,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C07,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C08,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C09,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0101,C10,Sandy soils,Winter,5.3,24.92,61.99,No documented crop-soil-season rule
+SCN0102,C02,Red loamy soils,Post-monsoon,6.98,26.63,43.34,No documented crop-soil-season rule
+SCN0102,C04,Red loamy soils,Post-monsoon,6.98,26.63,43.34,No documented crop-soil-season rule
+SCN0102,C06,Red loamy soils,Post-monsoon,6.98,26.63,43.34,No documented crop-soil-season rule
+SCN0102,C08,Red loamy soils,Post-monsoon,6.98,26.63,43.34,No documented crop-soil-season rule
+SCN0102,C09,Red loamy soils,Post-monsoon,6.98,26.63,43.34,No documented crop-soil-season rule
+SCN0102,C10,Red loamy soils,Post-monsoon,6.98,26.63,43.34,No documented crop-soil-season rule
+SCN0103,C01,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C02,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C03,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C04,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C05,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C06,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C08,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0103,C09,Sandy clay loam soils,Post-monsoon,7.15,21.58,58.58,No documented crop-soil-season rule
+SCN0104,C01,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C02,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C03,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C04,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C05,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C06,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C08,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C09,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0104,C10,Red loamy soils,Winter,7.37,14.92,43.85,No documented crop-soil-season rule
+SCN0105,C04,Red sandy loam soils,Monsoon,6.56,31.38,56.54,No documented crop-soil-season rule
+SCN0105,C06,Red sandy loam soils,Monsoon,6.56,31.38,56.54,No documented crop-soil-season rule
+SCN0105,C07,Red sandy loam soils,Monsoon,6.56,31.38,56.54,No documented crop-soil-season rule
+SCN0106,C04,Red loamy soils,Monsoon,7.36,27.86,59.95,No documented crop-soil-season rule
+SCN0106,C06,Red loamy soils,Monsoon,7.36,27.86,59.95,No documented crop-soil-season rule
+SCN0106,C07,Red loamy soils,Monsoon,7.36,27.86,59.95,No documented crop-soil-season rule
+SCN0107,C01,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C02,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C04,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C05,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C06,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C07,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C09,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0107,C10,Red sandy loam soils,Summer,5.92,22.32,58.69,No documented crop-soil-season rule
+SCN0108,C04,Red sandy loam soils,Monsoon,6.86,21.97,80.32,No documented crop-soil-season rule
+SCN0108,C06,Red sandy loam soils,Monsoon,6.86,21.97,80.32,No documented crop-soil-season rule
+SCN0108,C07,Red sandy loam soils,Monsoon,6.86,21.97,80.32,No documented crop-soil-season rule
+SCN0109,C04,Red loamy soils,Monsoon,6.44,26.62,56.52,No documented crop-soil-season rule
+SCN0109,C06,Red loamy soils,Monsoon,6.44,26.62,56.52,No documented crop-soil-season rule
+SCN0109,C07,Red loamy soils,Monsoon,6.44,26.62,56.52,No documented crop-soil-season rule
+SCN0110,C01,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0110,C02,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0110,C05,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0110,C06,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0110,C07,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0110,C08,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0110,C10,Sandy clay loam soils,Monsoon,7.08,26.03,52.68,No documented crop-soil-season rule
+SCN0111,C04,Red sandy loam soils,Monsoon,7.18,25.51,79.66,No documented crop-soil-season rule
+SCN0111,C06,Red sandy loam soils,Monsoon,7.18,25.51,79.66,No documented crop-soil-season rule
+SCN0111,C07,Red sandy loam soils,Monsoon,7.18,25.51,79.66,No documented crop-soil-season rule
+SCN0112,C04,Red loamy soils,Monsoon,7.81,24.12,60.9,No documented crop-soil-season rule
+SCN0112,C06,Red loamy soils,Monsoon,7.81,24.12,60.9,No documented crop-soil-season rule
+SCN0112,C07,Red loamy soils,Monsoon,7.81,24.12,60.9,No documented crop-soil-season rule
+SCN0113,C02,Red sandy loam soils,Post-monsoon,8.37,21.54,59.82,No documented crop-soil-season rule
+SCN0113,C04,Red sandy loam soils,Post-monsoon,8.37,21.54,59.82,No documented crop-soil-season rule
+SCN0113,C05,Red sandy loam soils,Post-monsoon,8.37,21.54,59.82,No documented crop-soil-season rule
+SCN0113,C07,Red sandy loam soils,Post-monsoon,8.37,21.54,59.82,No documented crop-soil-season rule
+SCN0113,C08,Red sandy loam soils,Post-monsoon,8.37,21.54,59.82,No documented crop-soil-season rule
+SCN0113,C09,Red sandy loam soils,Post-monsoon,8.37,21.54,59.82,No documented crop-soil-season rule
+SCN0114,C01,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C02,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C03,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C04,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C05,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C06,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C08,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0114,C09,Sandy clay loam soils,Post-monsoon,6.18,19.86,61.39,No documented crop-soil-season rule
+SCN0115,C04,Red loamy soils,Monsoon,5.6,26.77,74.83,No documented crop-soil-season rule
+SCN0115,C06,Red loamy soils,Monsoon,5.6,26.77,74.83,No documented crop-soil-season rule
+SCN0115,C07,Red loamy soils,Monsoon,5.6,26.77,74.83,No documented crop-soil-season rule
+SCN0116,C04,Red sandy loam soils,Monsoon,6.87,26.82,77.15,No documented crop-soil-season rule
+SCN0116,C06,Red sandy loam soils,Monsoon,6.87,26.82,77.15,No documented crop-soil-season rule
+SCN0116,C07,Red sandy loam soils,Monsoon,6.87,26.82,77.15,No documented crop-soil-season rule
+SCN0117,C03,Loamy soils,Monsoon,6.79,33.92,70.64,No documented crop-soil-season rule
+SCN0117,C06,Loamy soils,Monsoon,6.79,33.92,70.64,No documented crop-soil-season rule
+SCN0117,C07,Loamy soils,Monsoon,6.79,33.92,70.64,No documented crop-soil-season rule
+SCN0117,C08,Loamy soils,Monsoon,6.79,33.92,70.64,No documented crop-soil-season rule
+SCN0117,C09,Loamy soils,Monsoon,6.79,33.92,70.64,No documented crop-soil-season rule
+SCN0117,C10,Loamy soils,Monsoon,6.79,33.92,70.64,No documented crop-soil-season rule
+SCN0118,C02,Red loamy soils,Post-monsoon,7.09,19.09,59.21,No documented crop-soil-season rule
+SCN0118,C04,Red loamy soils,Post-monsoon,7.09,19.09,59.21,No documented crop-soil-season rule
+SCN0118,C06,Red loamy soils,Post-monsoon,7.09,19.09,59.21,No documented crop-soil-season rule
+SCN0118,C08,Red loamy soils,Post-monsoon,7.09,19.09,59.21,No documented crop-soil-season rule
+SCN0118,C09,Red loamy soils,Post-monsoon,7.09,19.09,59.21,No documented crop-soil-season rule
+SCN0118,C10,Red loamy soils,Post-monsoon,7.09,19.09,59.21,No documented crop-soil-season rule
+SCN0119,C02,Red sandy loam soils,Post-monsoon,6.12,19.82,72.18,No documented crop-soil-season rule
+SCN0119,C04,Red sandy loam soils,Post-monsoon,6.12,19.82,72.18,No documented crop-soil-season rule
+SCN0119,C05,Red sandy loam soils,Post-monsoon,6.12,19.82,72.18,No documented crop-soil-season rule
+SCN0119,C07,Red sandy loam soils,Post-monsoon,6.12,19.82,72.18,No documented crop-soil-season rule
+SCN0119,C08,Red sandy loam soils,Post-monsoon,6.12,19.82,72.18,No documented crop-soil-season rule
+SCN0119,C09,Red sandy loam soils,Post-monsoon,6.12,19.82,72.18,No documented crop-soil-season rule
+SCN0120,C04,Red loamy soils,Monsoon,6.49,21.29,70.89,No documented crop-soil-season rule
+SCN0120,C06,Red loamy soils,Monsoon,6.49,21.29,70.89,No documented crop-soil-season rule
+SCN0120,C07,Red loamy soils,Monsoon,6.49,21.29,70.89,No documented crop-soil-season rule
+SCN0121,C03,Loamy soils,Monsoon,5.76,34.34,86.65,No documented crop-soil-season rule
+SCN0121,C06,Loamy soils,Monsoon,5.76,34.34,86.65,No documented crop-soil-season rule
+SCN0121,C07,Loamy soils,Monsoon,5.76,34.34,86.65,No documented crop-soil-season rule
+SCN0121,C08,Loamy soils,Monsoon,5.76,34.34,86.65,No documented crop-soil-season rule
+SCN0121,C09,Loamy soils,Monsoon,5.76,34.34,86.65,No documented crop-soil-season rule
+SCN0121,C10,Loamy soils,Monsoon,5.76,34.34,86.65,No documented crop-soil-season rule
+SCN0122,C04,Red sandy loam soils,Monsoon,6.81,24.09,70.9,No documented crop-soil-season rule
+SCN0122,C06,Red sandy loam soils,Monsoon,6.81,24.09,70.9,No documented crop-soil-season rule
+SCN0122,C07,Red sandy loam soils,Monsoon,6.81,24.09,70.9,No documented crop-soil-season rule
+SCN0123,C04,Red sandy loam soils,Monsoon,7.21,21.15,70.47,No documented crop-soil-season rule
+SCN0123,C06,Red sandy loam soils,Monsoon,7.21,21.15,70.47,No documented crop-soil-season rule
+SCN0123,C07,Red sandy loam soils,Monsoon,7.21,21.15,70.47,No documented crop-soil-season rule
+SCN0124,C04,Red loamy soils,Monsoon,5.9,23.7,73.42,No documented crop-soil-season rule
+SCN0124,C06,Red loamy soils,Monsoon,5.9,23.7,73.42,No documented crop-soil-season rule
+SCN0124,C07,Red loamy soils,Monsoon,5.9,23.7,73.42,No documented crop-soil-season rule
+SCN0125,C01,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0125,C02,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0125,C05,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0125,C06,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0125,C07,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0125,C08,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0125,C10,Sandy clay loam soils,Monsoon,5.76,33.98,78.41,No documented crop-soil-season rule
+SCN0126,C02,Red sandy loam soils,Post-monsoon,5.84,31.43,59.17,No documented crop-soil-season rule
+SCN0126,C04,Red sandy loam soils,Post-monsoon,5.84,31.43,59.17,No documented crop-soil-season rule
+SCN0126,C05,Red sandy loam soils,Post-monsoon,5.84,31.43,59.17,No documented crop-soil-season rule
+SCN0126,C07,Red sandy loam soils,Post-monsoon,5.84,31.43,59.17,No documented crop-soil-season rule
+SCN0126,C08,Red sandy loam soils,Post-monsoon,5.84,31.43,59.17,No documented crop-soil-season rule
+SCN0126,C09,Red sandy loam soils,Post-monsoon,5.84,31.43,59.17,No documented crop-soil-season rule
+SCN0127,C02,Red loamy soils,Post-monsoon,6.35,22.63,51.63,No documented crop-soil-season rule
+SCN0127,C04,Red loamy soils,Post-monsoon,6.35,22.63,51.63,No documented crop-soil-season rule
+SCN0127,C06,Red loamy soils,Post-monsoon,6.35,22.63,51.63,No documented crop-soil-season rule
+SCN0127,C08,Red loamy soils,Post-monsoon,6.35,22.63,51.63,No documented crop-soil-season rule
+SCN0127,C09,Red loamy soils,Post-monsoon,6.35,22.63,51.63,No documented crop-soil-season rule
+SCN0127,C10,Red loamy soils,Post-monsoon,6.35,22.63,51.63,No documented crop-soil-season rule
+SCN0128,C01,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C02,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C04,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C05,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C06,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C07,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C09,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0128,C10,Red sandy loam soils,Summer,6.85,23.72,59.21,No documented crop-soil-season rule
+SCN0129,C03,Loamy soils,Monsoon,5.82,37.42,85.2,No documented crop-soil-season rule
+SCN0129,C06,Loamy soils,Monsoon,5.82,37.42,85.2,No documented crop-soil-season rule
+SCN0129,C07,Loamy soils,Monsoon,5.82,37.42,85.2,No documented crop-soil-season rule
+SCN0129,C08,Loamy soils,Monsoon,5.82,37.42,85.2,No documented crop-soil-season rule
+SCN0129,C09,Loamy soils,Monsoon,5.82,37.42,85.2,No documented crop-soil-season rule
+SCN0129,C10,Loamy soils,Monsoon,5.82,37.42,85.2,No documented crop-soil-season rule
+SCN0130,C01,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0130,C02,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0130,C05,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0130,C06,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0130,C07,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0130,C08,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0130,C10,Sandy clay loam soils,Monsoon,6.59,21.76,94.71,No documented crop-soil-season rule
+SCN0131,C01,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C02,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C03,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C05,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C06,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C07,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C08,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C09,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0131,C10,Loamy soils,Summer,7.1,29.97,82.87,No documented crop-soil-season rule
+SCN0132,C04,Red loamy soils,Monsoon,7.85,22.93,76.53,No documented crop-soil-season rule
+SCN0132,C06,Red loamy soils,Monsoon,7.85,22.93,76.53,No documented crop-soil-season rule
+SCN0132,C07,Red loamy soils,Monsoon,7.85,22.93,76.53,No documented crop-soil-season rule
+SCN0133,C03,Loamy soils,Monsoon,7.62,35.21,68.33,No documented crop-soil-season rule
+SCN0133,C06,Loamy soils,Monsoon,7.62,35.21,68.33,No documented crop-soil-season rule
+SCN0133,C07,Loamy soils,Monsoon,7.62,35.21,68.33,No documented crop-soil-season rule
+SCN0133,C08,Loamy soils,Monsoon,7.62,35.21,68.33,No documented crop-soil-season rule
+SCN0133,C09,Loamy soils,Monsoon,7.62,35.21,68.33,No documented crop-soil-season rule
+SCN0133,C10,Loamy soils,Monsoon,7.62,35.21,68.33,No documented crop-soil-season rule
+SCN0134,C04,Red sandy loam soils,Monsoon,6.77,34.35,68.53,No documented crop-soil-season rule
+SCN0134,C06,Red sandy loam soils,Monsoon,6.77,34.35,68.53,No documented crop-soil-season rule
+SCN0134,C07,Red sandy loam soils,Monsoon,6.77,34.35,68.53,No documented crop-soil-season rule
+SCN0135,C02,Red loamy soils,Post-monsoon,6.73,18.89,71.15,No documented crop-soil-season rule
+SCN0135,C04,Red loamy soils,Post-monsoon,6.73,18.89,71.15,No documented crop-soil-season rule
+SCN0135,C06,Red loamy soils,Post-monsoon,6.73,18.89,71.15,No documented crop-soil-season rule
+SCN0135,C08,Red loamy soils,Post-monsoon,6.73,18.89,71.15,No documented crop-soil-season rule
+SCN0135,C09,Red loamy soils,Post-monsoon,6.73,18.89,71.15,No documented crop-soil-season rule
+SCN0135,C10,Red loamy soils,Post-monsoon,6.73,18.89,71.15,No documented crop-soil-season rule
+SCN0136,C02,Red sandy loam soils,Post-monsoon,6.15,20.51,48.49,No documented crop-soil-season rule
+SCN0136,C04,Red sandy loam soils,Post-monsoon,6.15,20.51,48.49,No documented crop-soil-season rule
+SCN0136,C05,Red sandy loam soils,Post-monsoon,6.15,20.51,48.49,No documented crop-soil-season rule
+SCN0136,C07,Red sandy loam soils,Post-monsoon,6.15,20.51,48.49,No documented crop-soil-season rule
+SCN0136,C08,Red sandy loam soils,Post-monsoon,6.15,20.51,48.49,No documented crop-soil-season rule
+SCN0136,C09,Red sandy loam soils,Post-monsoon,6.15,20.51,48.49,No documented crop-soil-season rule
+SCN0137,C01,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C02,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C03,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C04,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C05,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C07,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C08,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C09,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0137,C10,Sandy soils,Post-monsoon,6.88,15.83,73.51,No documented crop-soil-season rule
+SCN0138,C01,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C02,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C03,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C04,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C05,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C07,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C08,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C09,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0138,C10,Red sandy loam soils,Winter,6.63,26.71,84.14,No documented crop-soil-season rule
+SCN0139,C01,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C02,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C03,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C04,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C05,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C07,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C08,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C09,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0139,C10,Sandy soils,Winter,6.46,27.58,79.34,No documented crop-soil-season rule
+SCN0140,C02,Red loamy soils,Post-monsoon,7.4,20.58,62.89,No documented crop-soil-season rule
+SCN0140,C04,Red loamy soils,Post-monsoon,7.4,20.58,62.89,No documented crop-soil-season rule
+SCN0140,C06,Red loamy soils,Post-monsoon,7.4,20.58,62.89,No documented crop-soil-season rule
+SCN0140,C08,Red loamy soils,Post-monsoon,7.4,20.58,62.89,No documented crop-soil-season rule
+SCN0140,C09,Red loamy soils,Post-monsoon,7.4,20.58,62.89,No documented crop-soil-season rule
+SCN0140,C10,Red loamy soils,Post-monsoon,7.4,20.58,62.89,No documented crop-soil-season rule
+SCN0141,C01,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C02,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C03,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C04,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C05,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C06,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C08,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0141,C09,Sandy clay loam soils,Post-monsoon,6.71,25.04,62.71,No documented crop-soil-season rule
+SCN0142,C01,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C02,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C03,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C04,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C05,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C06,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C08,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C09,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0142,C10,Red loamy soils,Winter,6.78,15.74,60.11,No documented crop-soil-season rule
+SCN0143,C04,Red sandy loam soils,Monsoon,5.72,29.44,82.15,No documented crop-soil-season rule
+SCN0143,C06,Red sandy loam soils,Monsoon,5.72,29.44,82.15,No documented crop-soil-season rule
+SCN0143,C07,Red sandy loam soils,Monsoon,5.72,29.44,82.15,No documented crop-soil-season rule
+SCN0144,C04,Red loamy soils,Monsoon,5.78,29.48,80.47,No documented crop-soil-season rule
+SCN0144,C06,Red loamy soils,Monsoon,5.78,29.48,80.47,No documented crop-soil-season rule
+SCN0144,C07,Red loamy soils,Monsoon,5.78,29.48,80.47,No documented crop-soil-season rule
+SCN0145,C01,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C02,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C04,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C05,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C06,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C07,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C09,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0145,C10,Red sandy loam soils,Summer,5.68,34.68,50.31,No documented crop-soil-season rule
+SCN0146,C04,Red sandy loam soils,Monsoon,6.62,31.83,56.02,No documented crop-soil-season rule
+SCN0146,C06,Red sandy loam soils,Monsoon,6.62,31.83,56.02,No documented crop-soil-season rule
+SCN0146,C07,Red sandy loam soils,Monsoon,6.62,31.83,56.02,No documented crop-soil-season rule
+SCN0147,C04,Red loamy soils,Monsoon,6.03,33.61,55.08,No documented crop-soil-season rule
+SCN0147,C06,Red loamy soils,Monsoon,6.03,33.61,55.08,No documented crop-soil-season rule
+SCN0147,C07,Red loamy soils,Monsoon,6.03,33.61,55.08,No documented crop-soil-season rule
+SCN0148,C01,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0148,C02,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0148,C05,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0148,C06,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0148,C07,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0148,C08,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0148,C10,Sandy clay loam soils,Monsoon,5.62,32.01,81.46,No documented crop-soil-season rule
+SCN0149,C04,Red sandy loam soils,Monsoon,6.57,30.56,65.53,No documented crop-soil-season rule
+SCN0149,C06,Red sandy loam soils,Monsoon,6.57,30.56,65.53,No documented crop-soil-season rule
+SCN0149,C07,Red sandy loam soils,Monsoon,6.57,30.56,65.53,No documented crop-soil-season rule
+SCN0150,C04,Red loamy soils,Monsoon,6.16,26.95,59.33,No documented crop-soil-season rule
+SCN0150,C06,Red loamy soils,Monsoon,6.16,26.95,59.33,No documented crop-soil-season rule
+SCN0150,C07,Red loamy soils,Monsoon,6.16,26.95,59.33,No documented crop-soil-season rule
+SCN0151,C01,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C02,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C03,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C04,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C05,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C06,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C07,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C08,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C09,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0151,C10,Sandy clay loam soils,Summer,8.71,29.77,48.66,No documented crop-soil-season rule
+SCN0152,C01,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C02,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C03,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C04,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C05,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C06,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C08,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C09,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0152,C10,Red loamy soils,Winter,8.13,36.38,82.75,No documented crop-soil-season rule
+SCN0153,C02,Red sandy loam soils,Post-monsoon,7.51,31.47,74.82,No documented crop-soil-season rule
+SCN0153,C04,Red sandy loam soils,Post-monsoon,7.51,31.47,74.82,No documented crop-soil-season rule
+SCN0153,C05,Red sandy loam soils,Post-monsoon,7.51,31.47,74.82,No documented crop-soil-season rule
+SCN0153,C07,Red sandy loam soils,Post-monsoon,7.51,31.47,74.82,No documented crop-soil-season rule
+SCN0153,C08,Red sandy loam soils,Post-monsoon,7.51,31.47,74.82,No documented crop-soil-season rule
+SCN0153,C09,Red sandy loam soils,Post-monsoon,7.51,31.47,74.82,No documented crop-soil-season rule
+SCN0154,C02,Red loamy soils,Post-monsoon,7.95,12.9,54.81,No documented crop-soil-season rule
+SCN0154,C04,Red loamy soils,Post-monsoon,7.95,12.9,54.81,No documented crop-soil-season rule
+SCN0154,C06,Red loamy soils,Post-monsoon,7.95,12.9,54.81,No documented crop-soil-season rule
+SCN0154,C08,Red loamy soils,Post-monsoon,7.95,12.9,54.81,No documented crop-soil-season rule
+SCN0154,C09,Red loamy soils,Post-monsoon,7.95,12.9,54.81,No documented crop-soil-season rule
+SCN0154,C10,Red loamy soils,Post-monsoon,7.95,12.9,54.81,No documented crop-soil-season rule
+SCN0155,C03,Loamy soils,Monsoon,5.6,33.24,89.6,No documented crop-soil-season rule
+SCN0155,C06,Loamy soils,Monsoon,5.6,33.24,89.6,No documented crop-soil-season rule
+SCN0155,C07,Loamy soils,Monsoon,5.6,33.24,89.6,No documented crop-soil-season rule
+SCN0155,C08,Loamy soils,Monsoon,5.6,33.24,89.6,No documented crop-soil-season rule
+SCN0155,C09,Loamy soils,Monsoon,5.6,33.24,89.6,No documented crop-soil-season rule
+SCN0155,C10,Loamy soils,Monsoon,5.6,33.24,89.6,No documented crop-soil-season rule
+SCN0156,C02,Red sandy loam soils,Post-monsoon,8.46,37.49,95.78,No documented crop-soil-season rule
+SCN0156,C04,Red sandy loam soils,Post-monsoon,8.46,37.49,95.78,No documented crop-soil-season rule
+SCN0156,C05,Red sandy loam soils,Post-monsoon,8.46,37.49,95.78,No documented crop-soil-season rule
+SCN0156,C07,Red sandy loam soils,Post-monsoon,8.46,37.49,95.78,No documented crop-soil-season rule
+SCN0156,C08,Red sandy loam soils,Post-monsoon,8.46,37.49,95.78,No documented crop-soil-season rule
+SCN0156,C09,Red sandy loam soils,Post-monsoon,8.46,37.49,95.78,No documented crop-soil-season rule
+SCN0157,C01,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C02,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C03,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C05,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C06,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C07,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C08,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C09,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0157,C10,Loamy soils,Summer,5.36,38.1,88.49,No documented crop-soil-season rule
+SCN0158,C01,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C02,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C03,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C04,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C05,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C07,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C08,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C09,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0158,C10,Sandy soils,Post-monsoon,5.16,22.65,47.98,No documented crop-soil-season rule
+SCN0159,C01,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C02,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C03,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C04,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C05,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C06,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C07,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C08,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C09,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0159,C10,Sandy clay loam soils,Winter,8.09,37.39,37.37,No documented crop-soil-season rule
+SCN0160,C01,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C02,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C03,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C04,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C05,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C07,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C08,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C09,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0160,C10,Sandy soils,Post-monsoon,8.46,17.98,34.3,No documented crop-soil-season rule
+SCN0161,C01,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C02,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C03,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C05,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C06,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C07,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C08,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C09,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0161,C10,Loamy soils,Summer,5.36,37.55,50.7,No documented crop-soil-season rule
+SCN0162,C01,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C02,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C03,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C04,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C05,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C07,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C08,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C09,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0162,C10,Red sandy loam soils,Winter,6.61,30.1,80.53,No documented crop-soil-season rule
+SCN0163,C01,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C02,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C03,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C04,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C05,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C07,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C08,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C09,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0163,C10,Red sandy loam soils,Winter,7.42,34.51,71.86,No documented crop-soil-season rule
+SCN0164,C01,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C02,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C03,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C04,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C05,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C07,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C08,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C09,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0164,C10,Red sandy loam soils,Winter,6.58,18.38,54.66,No documented crop-soil-season rule
+SCN0165,C01,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C02,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C03,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C04,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C05,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C06,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C07,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C08,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C09,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0165,C10,Sandy clay loam soils,Summer,6.39,17.12,38.31,No documented crop-soil-season rule
+SCN0166,C01,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C02,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C03,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C04,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C05,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C06,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C07,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C08,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C09,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0166,C10,Sandy soils,Summer,5.0,21.0,97.24,No documented crop-soil-season rule
+SCN0167,C01,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C02,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C03,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C04,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C05,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C06,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C07,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C08,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C09,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0167,C10,Sandy soils,Monsoon,7.15,33.95,45.84,No documented crop-soil-season rule
+SCN0168,C01,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0168,C02,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0168,C05,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0168,C06,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0168,C07,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0168,C08,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0168,C10,Sandy clay loam soils,Monsoon,8.75,26.59,84.3,No documented crop-soil-season rule
+SCN0169,C01,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0169,C02,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0169,C05,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0169,C06,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0169,C07,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0169,C08,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0169,C10,Sandy clay loam soils,Monsoon,7.16,12.43,48.04,No documented crop-soil-season rule
+SCN0170,C01,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C02,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C03,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C04,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C05,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C06,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C08,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C09,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0170,C10,Red loamy soils,Winter,6.59,21.78,70.37,No documented crop-soil-season rule
+SCN0171,C01,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C02,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C03,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C04,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C05,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C07,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C08,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C09,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0171,C10,Sandy soils,Post-monsoon,6.63,38.03,34.14,No documented crop-soil-season rule
+SCN0172,C01,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C02,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C03,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C04,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C05,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C06,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C07,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C08,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C09,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0172,C10,Loamy soils,Winter,5.09,14.18,71.36,No documented crop-soil-season rule
+SCN0173,C01,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C02,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C03,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C04,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C05,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C07,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C08,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C09,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0173,C10,Sandy soils,Post-monsoon,6.32,28.13,50.05,No documented crop-soil-season rule
+SCN0174,C04,Red loamy soils,Monsoon,6.52,35.98,58.14,No documented crop-soil-season rule
+SCN0174,C06,Red loamy soils,Monsoon,6.52,35.98,58.14,No documented crop-soil-season rule
+SCN0174,C07,Red loamy soils,Monsoon,6.52,35.98,58.14,No documented crop-soil-season rule
+SCN0175,C01,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C02,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C03,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C04,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C05,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C06,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C07,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C08,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C09,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0175,C10,Sandy clay loam soils,Winter,6.05,18.88,94.84,No documented crop-soil-season rule
+SCN0176,C01,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C02,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C03,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C04,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C05,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C06,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C07,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C08,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C09,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0176,C10,Red loamy soils,Summer,6.53,32.1,55.34,No documented crop-soil-season rule
+SCN0177,C01,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C02,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C03,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C04,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C05,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C07,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C08,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C09,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0177,C10,Sandy soils,Post-monsoon,7.48,23.09,89.41,No documented crop-soil-season rule
+SCN0178,C02,Red loamy soils,Post-monsoon,7.2,21.49,69.3,No documented crop-soil-season rule
+SCN0178,C04,Red loamy soils,Post-monsoon,7.2,21.49,69.3,No documented crop-soil-season rule
+SCN0178,C06,Red loamy soils,Post-monsoon,7.2,21.49,69.3,No documented crop-soil-season rule
+SCN0178,C08,Red loamy soils,Post-monsoon,7.2,21.49,69.3,No documented crop-soil-season rule
+SCN0178,C09,Red loamy soils,Post-monsoon,7.2,21.49,69.3,No documented crop-soil-season rule
+SCN0178,C10,Red loamy soils,Post-monsoon,7.2,21.49,69.3,No documented crop-soil-season rule
+SCN0179,C02,Red loamy soils,Post-monsoon,8.18,21.92,81.86,No documented crop-soil-season rule
+SCN0179,C04,Red loamy soils,Post-monsoon,8.18,21.92,81.86,No documented crop-soil-season rule
+SCN0179,C06,Red loamy soils,Post-monsoon,8.18,21.92,81.86,No documented crop-soil-season rule
+SCN0179,C08,Red loamy soils,Post-monsoon,8.18,21.92,81.86,No documented crop-soil-season rule
+SCN0179,C09,Red loamy soils,Post-monsoon,8.18,21.92,81.86,No documented crop-soil-season rule
+SCN0179,C10,Red loamy soils,Post-monsoon,8.18,21.92,81.86,No documented crop-soil-season rule
+SCN0180,C01,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C02,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C03,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C04,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C05,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C06,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C07,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C08,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C09,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0180,C10,Sandy soils,Summer,7.24,29.76,77.16,No documented crop-soil-season rule
+SCN0181,C01,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C02,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C03,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C04,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C05,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C06,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C08,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0181,C09,Sandy clay loam soils,Post-monsoon,4.82,35.49,68.51,No documented crop-soil-season rule
+SCN0182,C01,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C02,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C03,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C04,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C05,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C06,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C07,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C08,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C09,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0182,C10,Red loamy soils,Summer,7.78,17.81,58.55,No documented crop-soil-season rule
+SCN0183,C01,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C02,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C03,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C04,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C05,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C06,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C07,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C08,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C09,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0183,C10,Sandy soils,Summer,8.33,16.2,81.3,No documented crop-soil-season rule
+SCN0184,C01,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C02,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C03,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C04,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C05,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C06,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C07,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C08,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C09,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0184,C10,Loamy soils,Winter,7.23,23.18,44.66,No documented crop-soil-season rule
+SCN0185,C01,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C02,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C03,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C04,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C05,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C07,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C08,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C09,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0185,C10,Sandy soils,Winter,6.91,20.33,45.0,No documented crop-soil-season rule
+SCN0186,C04,Red sandy loam soils,Monsoon,7.86,19.82,38.16,No documented crop-soil-season rule
+SCN0186,C06,Red sandy loam soils,Monsoon,7.86,19.82,38.16,No documented crop-soil-season rule
+SCN0186,C07,Red sandy loam soils,Monsoon,7.86,19.82,38.16,No documented crop-soil-season rule
+SCN0187,C01,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C02,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C03,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C04,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C05,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C06,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C07,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C08,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C09,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0187,C10,Sandy soils,Monsoon,6.8,34.5,84.82,No documented crop-soil-season rule
+SCN0188,C01,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C02,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C03,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C04,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C05,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C06,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C08,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C09,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0188,C10,Red loamy soils,Winter,8.48,35.28,69.15,No documented crop-soil-season rule
+SCN0189,C01,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C02,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C03,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C04,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C05,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C06,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C08,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C09,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0189,C10,Red loamy soils,Winter,4.88,20.77,84.49,No documented crop-soil-season rule
+SCN0190,C01,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C02,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C03,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C04,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C05,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C06,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C08,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C09,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0190,C10,Red loamy soils,Winter,8.18,18.57,70.04,No documented crop-soil-season rule
+SCN0191,C01,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0191,C02,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0191,C05,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0191,C06,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0191,C07,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0191,C08,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0191,C10,Sandy clay loam soils,Monsoon,6.13,16.54,64.71,No documented crop-soil-season rule
+SCN0192,C01,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C02,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C03,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C04,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C05,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C06,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C08,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0192,C09,Sandy clay loam soils,Post-monsoon,7.71,34.11,85.42,No documented crop-soil-season rule
+SCN0193,C01,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C02,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C03,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C04,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C05,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C06,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C07,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C08,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C09,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0193,C10,Sandy soils,Monsoon,7.84,29.7,42.05,No documented crop-soil-season rule
+SCN0194,C01,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C02,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C03,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C04,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C05,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C07,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C08,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C09,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0194,C10,Sandy soils,Winter,7.52,35.82,73.72,No documented crop-soil-season rule
+SCN0195,C01,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0195,C02,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0195,C05,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0195,C06,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0195,C07,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0195,C08,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0195,C10,Sandy clay loam soils,Monsoon,6.56,24.66,72.93,No documented crop-soil-season rule
+SCN0196,C02,Red loamy soils,Post-monsoon,6.65,13.02,55.07,No documented crop-soil-season rule
+SCN0196,C04,Red loamy soils,Post-monsoon,6.65,13.02,55.07,No documented crop-soil-season rule
+SCN0196,C06,Red loamy soils,Post-monsoon,6.65,13.02,55.07,No documented crop-soil-season rule
+SCN0196,C08,Red loamy soils,Post-monsoon,6.65,13.02,55.07,No documented crop-soil-season rule
+SCN0196,C09,Red loamy soils,Post-monsoon,6.65,13.02,55.07,No documented crop-soil-season rule
+SCN0196,C10,Red loamy soils,Post-monsoon,6.65,13.02,55.07,No documented crop-soil-season rule
+SCN0197,C01,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C02,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C03,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C04,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C05,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C06,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C08,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C09,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0197,C10,Red loamy soils,Winter,6.65,26.97,83.84,No documented crop-soil-season rule
+SCN0198,C02,Red sandy loam soils,Post-monsoon,7.22,25.54,95.13,No documented crop-soil-season rule
+SCN0198,C04,Red sandy loam soils,Post-monsoon,7.22,25.54,95.13,No documented crop-soil-season rule
+SCN0198,C05,Red sandy loam soils,Post-monsoon,7.22,25.54,95.13,No documented crop-soil-season rule
+SCN0198,C07,Red sandy loam soils,Post-monsoon,7.22,25.54,95.13,No documented crop-soil-season rule
+SCN0198,C08,Red sandy loam soils,Post-monsoon,7.22,25.54,95.13,No documented crop-soil-season rule
+SCN0198,C09,Red sandy loam soils,Post-monsoon,7.22,25.54,95.13,No documented crop-soil-season rule
+SCN0199,C04,Red loamy soils,Monsoon,4.96,31.11,97.39,No documented crop-soil-season rule
+SCN0199,C06,Red loamy soils,Monsoon,4.96,31.11,97.39,No documented crop-soil-season rule
+SCN0199,C07,Red loamy soils,Monsoon,4.96,31.11,97.39,No documented crop-soil-season rule
+SCN0200,C01,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C02,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C03,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C04,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C05,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C06,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C07,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C08,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C09,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0200,C10,Sandy clay loam soils,Winter,6.44,21.14,70.66,No documented crop-soil-season rule
+SCN0201,C01,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C02,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C03,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C04,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C05,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C06,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C08,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C09,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0201,C10,Red loamy soils,Winter,5.94,31.54,74.65,No documented crop-soil-season rule
+SCN0202,C01,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C02,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C03,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C04,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C05,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C06,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C07,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C08,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C09,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0202,C10,Sandy soils,Monsoon,8.47,20.38,74.61,No documented crop-soil-season rule
+SCN0203,C02,Red loamy soils,Post-monsoon,7.04,29.37,52.34,No documented crop-soil-season rule
+SCN0203,C04,Red loamy soils,Post-monsoon,7.04,29.37,52.34,No documented crop-soil-season rule
+SCN0203,C06,Red loamy soils,Post-monsoon,7.04,29.37,52.34,No documented crop-soil-season rule
+SCN0203,C08,Red loamy soils,Post-monsoon,7.04,29.37,52.34,No documented crop-soil-season rule
+SCN0203,C09,Red loamy soils,Post-monsoon,7.04,29.37,52.34,No documented crop-soil-season rule
+SCN0203,C10,Red loamy soils,Post-monsoon,7.04,29.37,52.34,No documented crop-soil-season rule
+SCN0204,C01,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C02,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C03,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C04,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C05,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C06,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C07,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C08,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C09,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0204,C10,Sandy soils,Summer,7.38,23.43,54.6,No documented crop-soil-season rule
+SCN0205,C03,Loamy soils,Monsoon,5.71,15.71,35.25,No documented crop-soil-season rule
+SCN0205,C06,Loamy soils,Monsoon,5.71,15.71,35.25,No documented crop-soil-season rule
+SCN0205,C07,Loamy soils,Monsoon,5.71,15.71,35.25,No documented crop-soil-season rule
+SCN0205,C08,Loamy soils,Monsoon,5.71,15.71,35.25,No documented crop-soil-season rule
+SCN0205,C09,Loamy soils,Monsoon,5.71,15.71,35.25,No documented crop-soil-season rule
+SCN0205,C10,Loamy soils,Monsoon,5.71,15.71,35.25,No documented crop-soil-season rule
+SCN0206,C01,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C02,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C03,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C04,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C05,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C06,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C07,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C08,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C09,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0206,C10,Sandy soils,Summer,7.45,35.66,72.03,No documented crop-soil-season rule
+SCN0207,C01,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C02,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C03,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C04,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C05,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C06,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C07,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C08,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C09,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0207,C10,Sandy soils,Monsoon,7.68,13.18,54.77,No documented crop-soil-season rule
+SCN0208,C03,Loamy soils,Monsoon,6.94,20.36,84.99,No documented crop-soil-season rule
+SCN0208,C06,Loamy soils,Monsoon,6.94,20.36,84.99,No documented crop-soil-season rule
+SCN0208,C07,Loamy soils,Monsoon,6.94,20.36,84.99,No documented crop-soil-season rule
+SCN0208,C08,Loamy soils,Monsoon,6.94,20.36,84.99,No documented crop-soil-season rule
+SCN0208,C09,Loamy soils,Monsoon,6.94,20.36,84.99,No documented crop-soil-season rule
+SCN0208,C10,Loamy soils,Monsoon,6.94,20.36,84.99,No documented crop-soil-season rule
+SCN0209,C01,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C02,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C03,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C04,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C05,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C07,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C08,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C09,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0209,C10,Sandy soils,Winter,6.65,19.61,55.97,No documented crop-soil-season rule
+SCN0210,C01,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C02,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C03,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C04,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C05,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C06,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C07,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C08,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C09,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0210,C10,Sandy soils,Monsoon,8.29,13.41,62.68,No documented crop-soil-season rule
+SCN0211,C01,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C02,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C03,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C04,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C05,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C06,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C07,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C08,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C09,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0211,C10,Sandy soils,Summer,5.94,32.6,48.55,No documented crop-soil-season rule
+SCN0212,C01,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C02,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C03,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C04,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C05,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C07,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C08,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C09,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0212,C10,Red sandy loam soils,Winter,8.34,37.12,58.21,No documented crop-soil-season rule
+SCN0213,C02,Red loamy soils,Post-monsoon,5.7,20.6,36.74,No documented crop-soil-season rule
+SCN0213,C04,Red loamy soils,Post-monsoon,5.7,20.6,36.74,No documented crop-soil-season rule
+SCN0213,C06,Red loamy soils,Post-monsoon,5.7,20.6,36.74,No documented crop-soil-season rule
+SCN0213,C08,Red loamy soils,Post-monsoon,5.7,20.6,36.74,No documented crop-soil-season rule
+SCN0213,C09,Red loamy soils,Post-monsoon,5.7,20.6,36.74,No documented crop-soil-season rule
+SCN0213,C10,Red loamy soils,Post-monsoon,5.7,20.6,36.74,No documented crop-soil-season rule
+SCN0214,C02,Red loamy soils,Post-monsoon,8.47,24.76,86.52,No documented crop-soil-season rule
+SCN0214,C04,Red loamy soils,Post-monsoon,8.47,24.76,86.52,No documented crop-soil-season rule
+SCN0214,C06,Red loamy soils,Post-monsoon,8.47,24.76,86.52,No documented crop-soil-season rule
+SCN0214,C08,Red loamy soils,Post-monsoon,8.47,24.76,86.52,No documented crop-soil-season rule
+SCN0214,C09,Red loamy soils,Post-monsoon,8.47,24.76,86.52,No documented crop-soil-season rule
+SCN0214,C10,Red loamy soils,Post-monsoon,8.47,24.76,86.52,No documented crop-soil-season rule
+SCN0215,C01,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C02,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C03,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C04,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C05,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C06,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C07,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C08,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C09,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0215,C10,Red loamy soils,Summer,5.82,34.54,67.32,No documented crop-soil-season rule
+SCN0216,C01,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0216,C02,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0216,C05,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0216,C06,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0216,C07,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0216,C08,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0216,C10,Sandy clay loam soils,Monsoon,6.0,13.29,58.55,No documented crop-soil-season rule
+SCN0217,C01,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C02,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C03,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C05,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C06,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C07,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C08,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C09,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0217,C10,Loamy soils,Summer,7.33,27.53,78.86,No documented crop-soil-season rule
+SCN0218,C01,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C02,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C03,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C04,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C05,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C07,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C08,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C09,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0218,C10,Sandy soils,Winter,5.55,30.04,65.6,No documented crop-soil-season rule
+SCN0219,C01,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C02,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C03,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C04,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C05,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C06,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C07,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C08,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C09,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0219,C10,Sandy soils,Summer,6.36,24.69,73.23,No documented crop-soil-season rule
+SCN0220,C02,Red loamy soils,Post-monsoon,5.76,29.74,37.05,No documented crop-soil-season rule
+SCN0220,C04,Red loamy soils,Post-monsoon,5.76,29.74,37.05,No documented crop-soil-season rule
+SCN0220,C06,Red loamy soils,Post-monsoon,5.76,29.74,37.05,No documented crop-soil-season rule
+SCN0220,C08,Red loamy soils,Post-monsoon,5.76,29.74,37.05,No documented crop-soil-season rule
+SCN0220,C09,Red loamy soils,Post-monsoon,5.76,29.74,37.05,No documented crop-soil-season rule
+SCN0220,C10,Red loamy soils,Post-monsoon,5.76,29.74,37.05,No documented crop-soil-season rule
+SCN0221,C01,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C02,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C03,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C04,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C05,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C06,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C08,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0221,C09,Sandy clay loam soils,Post-monsoon,8.05,16.73,82.98,No documented crop-soil-season rule
+SCN0222,C01,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C02,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C04,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C05,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C06,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C07,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C09,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0222,C10,Red sandy loam soils,Summer,7.66,37.48,32.51,No documented crop-soil-season rule
+SCN0223,C01,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C02,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C03,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C04,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C05,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C06,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C08,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0223,C09,Sandy clay loam soils,Post-monsoon,6.86,38.71,66.93,No documented crop-soil-season rule
+SCN0224,C01,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C02,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C03,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C04,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C05,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C06,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C07,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C08,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C09,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0224,C10,Sandy clay loam soils,Summer,8.26,20.96,38.46,No documented crop-soil-season rule
+SCN0225,C01,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C02,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C03,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C04,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C05,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C06,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C07,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C08,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C09,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0225,C10,Loamy soils,Post-monsoon,8.69,25.4,63.83,No documented crop-soil-season rule
+SCN0226,C01,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C02,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C03,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C05,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C06,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C07,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C08,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C09,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0226,C10,Loamy soils,Summer,6.52,38.87,42.27,No documented crop-soil-season rule
+SCN0227,C01,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C02,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C03,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C04,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C05,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C06,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C08,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0227,C09,Sandy clay loam soils,Post-monsoon,6.58,31.38,41.33,No documented crop-soil-season rule
+SCN0228,C01,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C02,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C03,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C04,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C05,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C06,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C07,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C08,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C09,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0228,C10,Sandy clay loam soils,Winter,5.9,38.46,94.46,No documented crop-soil-season rule
+SCN0229,C01,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C02,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C04,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C05,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C06,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C07,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C09,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0229,C10,Red sandy loam soils,Summer,5.37,28.4,83.13,No documented crop-soil-season rule
+SCN0230,C01,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C02,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C03,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C04,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C05,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C06,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C08,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0230,C09,Sandy clay loam soils,Post-monsoon,6.33,27.32,71.15,No documented crop-soil-season rule
+SCN0231,C04,Red loamy soils,Monsoon,6.92,22.75,74.17,No documented crop-soil-season rule
+SCN0231,C06,Red loamy soils,Monsoon,6.92,22.75,74.17,No documented crop-soil-season rule
+SCN0231,C07,Red loamy soils,Monsoon,6.92,22.75,74.17,No documented crop-soil-season rule
+SCN0232,C01,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C02,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C03,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C04,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C05,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C06,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C07,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C08,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C09,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0232,C10,Loamy soils,Winter,8.45,15.18,82.7,No documented crop-soil-season rule
+SCN0233,C03,Loamy soils,Monsoon,5.29,35.03,60.74,No documented crop-soil-season rule
+SCN0233,C06,Loamy soils,Monsoon,5.29,35.03,60.74,No documented crop-soil-season rule
+SCN0233,C07,Loamy soils,Monsoon,5.29,35.03,60.74,No documented crop-soil-season rule
+SCN0233,C08,Loamy soils,Monsoon,5.29,35.03,60.74,No documented crop-soil-season rule
+SCN0233,C09,Loamy soils,Monsoon,5.29,35.03,60.74,No documented crop-soil-season rule
+SCN0233,C10,Loamy soils,Monsoon,5.29,35.03,60.74,No documented crop-soil-season rule
+SCN0234,C01,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C02,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C03,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C04,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C05,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C06,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C08,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0234,C09,Sandy clay loam soils,Post-monsoon,7.64,26.85,49.74,No documented crop-soil-season rule
+SCN0235,C02,Red sandy loam soils,Post-monsoon,6.84,15.28,43.67,No documented crop-soil-season rule
+SCN0235,C04,Red sandy loam soils,Post-monsoon,6.84,15.28,43.67,No documented crop-soil-season rule
+SCN0235,C05,Red sandy loam soils,Post-monsoon,6.84,15.28,43.67,No documented crop-soil-season rule
+SCN0235,C07,Red sandy loam soils,Post-monsoon,6.84,15.28,43.67,No documented crop-soil-season rule
+SCN0235,C08,Red sandy loam soils,Post-monsoon,6.84,15.28,43.67,No documented crop-soil-season rule
+SCN0235,C09,Red sandy loam soils,Post-monsoon,6.84,15.28,43.67,No documented crop-soil-season rule
+SCN0236,C01,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C02,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C03,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C04,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C05,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C07,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C08,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C09,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0236,C10,Sandy soils,Post-monsoon,6.67,38.54,38.82,No documented crop-soil-season rule
+SCN0237,C01,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C02,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C03,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C04,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C05,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C06,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C07,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C08,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C09,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0237,C10,Loamy soils,Winter,7.88,34.23,35.02,No documented crop-soil-season rule
+SCN0238,C01,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C02,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C03,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C04,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C05,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C07,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C08,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C09,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0238,C10,Sandy soils,Post-monsoon,5.31,34.38,67.49,No documented crop-soil-season rule
+SCN0239,C01,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C02,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C03,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C04,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C05,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C06,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C07,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C08,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C09,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0239,C10,Sandy soils,Summer,8.13,25.99,50.68,No documented crop-soil-season rule
+SCN0240,C01,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C02,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C03,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C04,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C05,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C07,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C08,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C09,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0240,C10,Sandy soils,Post-monsoon,8.18,18.77,73.18,No documented crop-soil-season rule
+SCN0241,C01,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C02,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C03,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C04,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C05,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C06,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C07,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C08,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C09,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0241,C10,Sandy soils,Summer,6.81,16.55,94.03,No documented crop-soil-season rule
+SCN0242,C01,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C02,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C03,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C04,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C05,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C07,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C08,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C09,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0242,C10,Sandy soils,Post-monsoon,8.17,27.22,86.12,No documented crop-soil-season rule
+SCN0243,C01,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C02,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C03,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C04,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C05,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C07,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C08,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C09,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0243,C10,Sandy soils,Post-monsoon,7.4,32.71,58.33,No documented crop-soil-season rule
+SCN0244,C01,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C02,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C03,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C04,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C05,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C06,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C08,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0244,C09,Sandy clay loam soils,Post-monsoon,6.73,33.73,76.58,No documented crop-soil-season rule
+SCN0245,C01,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C02,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C03,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C04,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C05,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C06,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C07,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C08,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C09,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0245,C10,Loamy soils,Winter,6.74,17.51,71.25,No documented crop-soil-season rule
+SCN0246,C01,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C02,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C03,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C04,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C05,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C06,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C07,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C08,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C09,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0246,C10,Sandy clay loam soils,Winter,5.32,22.0,68.19,No documented crop-soil-season rule
+SCN0247,C04,Red sandy loam soils,Monsoon,5.19,19.84,56.12,No documented crop-soil-season rule
+SCN0247,C06,Red sandy loam soils,Monsoon,5.19,19.84,56.12,No documented crop-soil-season rule
+SCN0247,C07,Red sandy loam soils,Monsoon,5.19,19.84,56.12,No documented crop-soil-season rule
+SCN0248,C02,Red sandy loam soils,Post-monsoon,8.54,31.47,42.91,No documented crop-soil-season rule
+SCN0248,C04,Red sandy loam soils,Post-monsoon,8.54,31.47,42.91,No documented crop-soil-season rule
+SCN0248,C05,Red sandy loam soils,Post-monsoon,8.54,31.47,42.91,No documented crop-soil-season rule
+SCN0248,C07,Red sandy loam soils,Post-monsoon,8.54,31.47,42.91,No documented crop-soil-season rule
+SCN0248,C08,Red sandy loam soils,Post-monsoon,8.54,31.47,42.91,No documented crop-soil-season rule
+SCN0248,C09,Red sandy loam soils,Post-monsoon,8.54,31.47,42.91,No documented crop-soil-season rule
+SCN0249,C01,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C02,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C03,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C04,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C05,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C06,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C07,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C08,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C09,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0249,C10,Sandy clay loam soils,Winter,4.89,37.52,64.37,No documented crop-soil-season rule
+SCN0250,C02,Red loamy soils,Post-monsoon,6.78,35.82,74.49,No documented crop-soil-season rule
+SCN0250,C04,Red loamy soils,Post-monsoon,6.78,35.82,74.49,No documented crop-soil-season rule
+SCN0250,C06,Red loamy soils,Post-monsoon,6.78,35.82,74.49,No documented crop-soil-season rule
+SCN0250,C08,Red loamy soils,Post-monsoon,6.78,35.82,74.49,No documented crop-soil-season rule
+SCN0250,C09,Red loamy soils,Post-monsoon,6.78,35.82,74.49,No documented crop-soil-season rule
+SCN0250,C10,Red loamy soils,Post-monsoon,6.78,35.82,74.49,No documented crop-soil-season rule
+SCN0251,C03,Loamy soils,Monsoon,8.33,31.64,81.94,No documented crop-soil-season rule
+SCN0251,C06,Loamy soils,Monsoon,8.33,31.64,81.94,No documented crop-soil-season rule
+SCN0251,C07,Loamy soils,Monsoon,8.33,31.64,81.94,No documented crop-soil-season rule
+SCN0251,C08,Loamy soils,Monsoon,8.33,31.64,81.94,No documented crop-soil-season rule
+SCN0251,C09,Loamy soils,Monsoon,8.33,31.64,81.94,No documented crop-soil-season rule
+SCN0251,C10,Loamy soils,Monsoon,8.33,31.64,81.94,No documented crop-soil-season rule
+SCN0252,C02,Red sandy loam soils,Post-monsoon,7.01,13.99,64.29,No documented crop-soil-season rule
+SCN0252,C04,Red sandy loam soils,Post-monsoon,7.01,13.99,64.29,No documented crop-soil-season rule
+SCN0252,C05,Red sandy loam soils,Post-monsoon,7.01,13.99,64.29,No documented crop-soil-season rule
+SCN0252,C07,Red sandy loam soils,Post-monsoon,7.01,13.99,64.29,No documented crop-soil-season rule
+SCN0252,C08,Red sandy loam soils,Post-monsoon,7.01,13.99,64.29,No documented crop-soil-season rule
+SCN0252,C09,Red sandy loam soils,Post-monsoon,7.01,13.99,64.29,No documented crop-soil-season rule
+SCN0253,C01,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C02,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C03,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C04,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C05,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C06,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C07,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C08,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C09,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0253,C10,Sandy soils,Summer,5.31,14.61,55.38,No documented crop-soil-season rule
+SCN0254,C04,Red sandy loam soils,Monsoon,7.21,22.84,32.74,No documented crop-soil-season rule
+SCN0254,C06,Red sandy loam soils,Monsoon,7.21,22.84,32.74,No documented crop-soil-season rule
+SCN0254,C07,Red sandy loam soils,Monsoon,7.21,22.84,32.74,No documented crop-soil-season rule
+SCN0255,C01,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C02,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C03,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C04,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C05,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C07,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C08,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C09,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0255,C10,Sandy soils,Winter,5.4,36.11,39.51,No documented crop-soil-season rule
+SCN0256,C01,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C02,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C03,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C04,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C05,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C07,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C08,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C09,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0256,C10,Sandy soils,Post-monsoon,7.17,25.7,64.66,No documented crop-soil-season rule
+SCN0257,C02,Red loamy soils,Post-monsoon,6.12,14.96,58.32,No documented crop-soil-season rule
+SCN0257,C04,Red loamy soils,Post-monsoon,6.12,14.96,58.32,No documented crop-soil-season rule
+SCN0257,C06,Red loamy soils,Post-monsoon,6.12,14.96,58.32,No documented crop-soil-season rule
+SCN0257,C08,Red loamy soils,Post-monsoon,6.12,14.96,58.32,No documented crop-soil-season rule
+SCN0257,C09,Red loamy soils,Post-monsoon,6.12,14.96,58.32,No documented crop-soil-season rule
+SCN0257,C10,Red loamy soils,Post-monsoon,6.12,14.96,58.32,No documented crop-soil-season rule
+SCN0258,C01,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C02,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C03,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C04,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C05,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C06,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C08,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C09,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0258,C10,Red loamy soils,Winter,5.86,29.7,96.1,No documented crop-soil-season rule
+SCN0259,C03,Loamy soils,Monsoon,6.9,31.47,82.67,No documented crop-soil-season rule
+SCN0259,C06,Loamy soils,Monsoon,6.9,31.47,82.67,No documented crop-soil-season rule
+SCN0259,C07,Loamy soils,Monsoon,6.9,31.47,82.67,No documented crop-soil-season rule
+SCN0259,C08,Loamy soils,Monsoon,6.9,31.47,82.67,No documented crop-soil-season rule
+SCN0259,C09,Loamy soils,Monsoon,6.9,31.47,82.67,No documented crop-soil-season rule
+SCN0259,C10,Loamy soils,Monsoon,6.9,31.47,82.67,No documented crop-soil-season rule
+SCN0260,C01,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C02,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C03,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C04,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C05,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C06,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C07,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C08,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C09,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0260,C10,Sandy soils,Summer,5.56,23.91,58.48,No documented crop-soil-season rule
+SCN0261,C01,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C02,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C03,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C04,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C05,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C07,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C08,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C09,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0261,C10,Sandy soils,Winter,8.29,31.87,34.24,No documented crop-soil-season rule
+SCN0262,C01,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C02,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C03,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C04,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C05,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C06,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C07,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C08,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C09,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0262,C10,Loamy soils,Winter,6.06,16.68,92.02,No documented crop-soil-season rule
+SCN0263,C01,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C02,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C03,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C04,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C05,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C06,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C07,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C08,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C09,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0263,C10,Sandy clay loam soils,Winter,5.57,18.66,67.95,No documented crop-soil-season rule
+SCN0264,C01,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0264,C02,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0264,C05,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0264,C06,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0264,C07,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0264,C08,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0264,C10,Sandy clay loam soils,Monsoon,7.56,25.2,62.63,No documented crop-soil-season rule
+SCN0265,C01,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C02,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C03,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C04,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C05,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C06,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C07,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C08,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C09,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0265,C10,Sandy clay loam soils,Summer,7.09,26.67,90.91,No documented crop-soil-season rule
+SCN0266,C02,Red sandy loam soils,Post-monsoon,4.97,37.79,35.37,No documented crop-soil-season rule
+SCN0266,C04,Red sandy loam soils,Post-monsoon,4.97,37.79,35.37,No documented crop-soil-season rule
+SCN0266,C05,Red sandy loam soils,Post-monsoon,4.97,37.79,35.37,No documented crop-soil-season rule
+SCN0266,C07,Red sandy loam soils,Post-monsoon,4.97,37.79,35.37,No documented crop-soil-season rule
+SCN0266,C08,Red sandy loam soils,Post-monsoon,4.97,37.79,35.37,No documented crop-soil-season rule
+SCN0266,C09,Red sandy loam soils,Post-monsoon,4.97,37.79,35.37,No documented crop-soil-season rule
+SCN0267,C04,Red sandy loam soils,Monsoon,8.11,19.32,68.22,No documented crop-soil-season rule
+SCN0267,C06,Red sandy loam soils,Monsoon,8.11,19.32,68.22,No documented crop-soil-season rule
+SCN0267,C07,Red sandy loam soils,Monsoon,8.11,19.32,68.22,No documented crop-soil-season rule
+SCN0268,C04,Red sandy loam soils,Monsoon,5.0,36.44,45.35,No documented crop-soil-season rule
+SCN0268,C06,Red sandy loam soils,Monsoon,5.0,36.44,45.35,No documented crop-soil-season rule
+SCN0268,C07,Red sandy loam soils,Monsoon,5.0,36.44,45.35,No documented crop-soil-season rule
+SCN0269,C01,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C02,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C03,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C05,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C06,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C07,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C08,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C09,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0269,C10,Loamy soils,Summer,7.52,15.71,95.59,No documented crop-soil-season rule
+SCN0270,C01,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C02,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C03,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C04,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C05,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C06,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C07,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C08,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C09,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0270,C10,Loamy soils,Winter,7.4,32.41,49.53,No documented crop-soil-season rule
+SCN0271,C01,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C02,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C03,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C04,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C05,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C06,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C07,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C08,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C09,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0271,C10,Sandy soils,Monsoon,6.94,31.52,93.69,No documented crop-soil-season rule
+SCN0272,C01,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C02,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C04,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C05,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C06,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C07,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C09,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0272,C10,Red sandy loam soils,Summer,8.79,22.72,63.69,No documented crop-soil-season rule
+SCN0273,C01,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C02,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C03,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C04,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C05,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C06,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C07,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C08,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C09,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0273,C10,Red loamy soils,Summer,5.99,28.28,93.13,No documented crop-soil-season rule
+SCN0274,C01,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C02,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C03,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C04,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C05,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C07,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C08,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C09,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0274,C10,Sandy soils,Winter,8.36,15.62,64.29,No documented crop-soil-season rule
+SCN0275,C01,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C02,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C03,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C04,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C05,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C06,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C07,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C08,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C09,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0275,C10,Loamy soils,Post-monsoon,7.67,12.38,52.92,No documented crop-soil-season rule
+SCN0276,C01,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C02,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C03,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C04,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C05,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C07,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C08,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C09,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0276,C10,Sandy soils,Winter,8.11,25.91,35.9,No documented crop-soil-season rule
+SCN0277,C01,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0277,C02,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0277,C05,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0277,C06,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0277,C07,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0277,C08,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0277,C10,Sandy clay loam soils,Monsoon,4.83,22.36,60.38,No documented crop-soil-season rule
+SCN0278,C01,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C02,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C03,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C04,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C05,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C06,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C07,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C08,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C09,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0278,C10,Sandy soils,Summer,5.85,21.71,46.07,No documented crop-soil-season rule
+SCN0279,C01,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C02,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C03,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C04,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C05,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C07,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C08,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C09,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0279,C10,Sandy soils,Post-monsoon,7.56,29.25,93.96,No documented crop-soil-season rule
+SCN0280,C03,Loamy soils,Monsoon,6.62,38.7,55.41,No documented crop-soil-season rule
+SCN0280,C06,Loamy soils,Monsoon,6.62,38.7,55.41,No documented crop-soil-season rule
+SCN0280,C07,Loamy soils,Monsoon,6.62,38.7,55.41,No documented crop-soil-season rule
+SCN0280,C08,Loamy soils,Monsoon,6.62,38.7,55.41,No documented crop-soil-season rule
+SCN0280,C09,Loamy soils,Monsoon,6.62,38.7,55.41,No documented crop-soil-season rule
+SCN0280,C10,Loamy soils,Monsoon,6.62,38.7,55.41,No documented crop-soil-season rule
+SCN0281,C04,Red sandy loam soils,Monsoon,7.52,28.09,83.54,No documented crop-soil-season rule
+SCN0281,C06,Red sandy loam soils,Monsoon,7.52,28.09,83.54,No documented crop-soil-season rule
+SCN0281,C07,Red sandy loam soils,Monsoon,7.52,28.09,83.54,No documented crop-soil-season rule
+SCN0282,C01,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C02,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C03,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C04,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C05,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C06,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C07,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C08,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C09,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0282,C10,Sandy soils,Summer,5.05,26.79,64.37,No documented crop-soil-season rule
+SCN0283,C01,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C02,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C03,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C04,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C05,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C07,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C08,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C09,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0283,C10,Sandy soils,Winter,5.26,17.55,69.65,No documented crop-soil-season rule
+SCN0284,C03,Loamy soils,Monsoon,6.85,24.33,33.93,No documented crop-soil-season rule
+SCN0284,C06,Loamy soils,Monsoon,6.85,24.33,33.93,No documented crop-soil-season rule
+SCN0284,C07,Loamy soils,Monsoon,6.85,24.33,33.93,No documented crop-soil-season rule
+SCN0284,C08,Loamy soils,Monsoon,6.85,24.33,33.93,No documented crop-soil-season rule
+SCN0284,C09,Loamy soils,Monsoon,6.85,24.33,33.93,No documented crop-soil-season rule
+SCN0284,C10,Loamy soils,Monsoon,6.85,24.33,33.93,No documented crop-soil-season rule
+SCN0285,C01,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C02,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C03,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C04,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C05,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C06,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C07,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C08,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C09,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0285,C10,Loamy soils,Post-monsoon,8.07,32.14,69.33,No documented crop-soil-season rule
+SCN0286,C01,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C02,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C03,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C04,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C05,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C06,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C07,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C08,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C09,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0286,C10,Red loamy soils,Summer,8.74,24.75,49.52,No documented crop-soil-season rule
+SCN0287,C01,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C02,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C03,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C04,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C05,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C06,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C07,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C08,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C09,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0287,C10,Loamy soils,Post-monsoon,8.77,22.33,89.13,No documented crop-soil-season rule
+SCN0288,C01,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C02,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C03,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C04,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C05,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C06,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C07,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C08,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C09,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0288,C10,Sandy soils,Monsoon,7.41,21.39,42.14,No documented crop-soil-season rule
+SCN0289,C01,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C02,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C04,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C05,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C06,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C07,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C09,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0289,C10,Red sandy loam soils,Summer,7.82,38.42,61.48,No documented crop-soil-season rule
+SCN0290,C04,Red sandy loam soils,Monsoon,6.64,16.19,42.82,No documented crop-soil-season rule
+SCN0290,C06,Red sandy loam soils,Monsoon,6.64,16.19,42.82,No documented crop-soil-season rule
+SCN0290,C07,Red sandy loam soils,Monsoon,6.64,16.19,42.82,No documented crop-soil-season rule
+SCN0291,C01,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C02,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C03,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C05,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C06,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C07,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C08,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C09,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0291,C10,Loamy soils,Summer,5.76,13.82,70.39,No documented crop-soil-season rule
+SCN0292,C01,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C02,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C04,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C05,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C06,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C07,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C09,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0292,C10,Red sandy loam soils,Summer,6.41,18.33,44.77,No documented crop-soil-season rule
+SCN0293,C01,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0293,C02,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0293,C05,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0293,C06,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0293,C07,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0293,C08,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0293,C10,Sandy clay loam soils,Monsoon,8.06,31.75,51.69,No documented crop-soil-season rule
+SCN0294,C01,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0294,C02,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0294,C05,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0294,C06,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0294,C07,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0294,C08,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0294,C10,Sandy clay loam soils,Monsoon,8.74,26.07,58.12,No documented crop-soil-season rule
+SCN0295,C01,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C02,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C03,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C04,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C05,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C07,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C08,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C09,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0295,C10,Red sandy loam soils,Winter,7.02,13.27,53.42,No documented crop-soil-season rule
+SCN0296,C01,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C02,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C03,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C04,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C05,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C06,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C07,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C08,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C09,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0296,C10,Loamy soils,Winter,5.4,22.16,81.3,No documented crop-soil-season rule
+SCN0297,C01,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C02,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C03,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C04,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C05,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C07,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C08,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C09,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0297,C10,Red sandy loam soils,Winter,8.46,27.18,95.81,No documented crop-soil-season rule
+SCN0298,C02,Red sandy loam soils,Post-monsoon,7.39,36.9,87.61,No documented crop-soil-season rule
+SCN0298,C04,Red sandy loam soils,Post-monsoon,7.39,36.9,87.61,No documented crop-soil-season rule
+SCN0298,C05,Red sandy loam soils,Post-monsoon,7.39,36.9,87.61,No documented crop-soil-season rule
+SCN0298,C07,Red sandy loam soils,Post-monsoon,7.39,36.9,87.61,No documented crop-soil-season rule
+SCN0298,C08,Red sandy loam soils,Post-monsoon,7.39,36.9,87.61,No documented crop-soil-season rule
+SCN0298,C09,Red sandy loam soils,Post-monsoon,7.39,36.9,87.61,No documented crop-soil-season rule
+SCN0299,C01,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C02,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C03,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C04,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C05,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C06,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C07,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C08,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C09,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0299,C10,Sandy clay loam soils,Winter,7.49,28.28,89.41,No documented crop-soil-season rule
+SCN0300,C01,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C02,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C03,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C04,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C05,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C06,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C07,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C08,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C09,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule
+SCN0300,C10,Sandy soils,Monsoon,6.72,35.48,52.64,No documented crop-soil-season rule

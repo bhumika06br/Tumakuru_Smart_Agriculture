@@ -1,0 +1,31 @@
+crop_id,nutrient,unit,measurement_method,nutrient_form,low_threshold,high_threshold,source
+C01,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C01,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C01,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C02,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C02,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C02,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C03,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C03,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C03,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C04,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C04,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C04,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C05,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C05,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C05,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C06,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C06,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C06,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C07,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C07,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C07,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C08,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C08,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C08,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C09,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C09,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C09,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C10,N,mg/kg,Alkaline KMnO4,Available N,62.5,125,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C10,P,mg/kg,Olsen,Available P,5,10,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated
+C10,K,mg/kg,NH4OAc,Available K,53.5,107,Provisional_general_soil_classification_NOT_crop_specific_or_sensor_validated

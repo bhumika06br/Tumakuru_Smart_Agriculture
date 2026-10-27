@@ -1,0 +1,39 @@
+crop_id,soil_type,season,ph_min,ph_max,air_temp_min,air_temp_max,air_humidity_min,air_humidity_max,source
+C01,Red loamy soils,Monsoon,5.5,7.5,20,35,60,85,UASB_POP
+C01,Red sandy loam soils,Monsoon,5.5,7.5,20,35,60,85,UASB_POP
+C01,Loamy soils,Monsoon,5.5,7.5,20,35,60,85,UASB_POP
+C01,Red loamy soils,Post-monsoon,5.5,7.5,18,32,55,80,UASB_POP
+C01,Red sandy loam soils,Post-monsoon,5.5,7.5,18,32,55,80,UASB_POP
+C02,Red loamy soils,Monsoon,5.5,7.5,20,35,70,90,ICAR_CPCRI
+C02,Loamy soils,Monsoon,5.5,7.5,20,35,70,90,ICAR_CPCRI
+C02,Red sandy loam soils,Monsoon,5.5,7.5,20,35,70,90,ICAR_CPCRI
+C03,Red sandy loam soils,Monsoon,5,7.5,18,35,50,85,UASB_POP
+C03,Red loamy soils,Monsoon,5,7.5,18,35,50,85,UASB_POP
+C03,Sandy clay loam soils,Monsoon,5,7.5,18,35,50,85,UASB_POP
+C03,Red sandy loam soils,Post-monsoon,5,7.5,16,32,45,80,UASB_POP
+C03,Red loamy soils,Post-monsoon,5,7.5,16,32,45,80,UASB_POP
+C03,Red sandy loam soils,Summer,5,7.5,20,38,40,75,UASB_POP
+C04,Loamy soils,Monsoon,5.5,7.5,20,38,70,95,ICAR_IIRR
+C04,Sandy clay loam soils,Monsoon,5.5,7.5,20,38,70,95,ICAR_IIRR
+C04,Loamy soils,Summer,5.5,7.5,22,38,65,90,ICAR_IIRR
+C05,Red loamy soils,Monsoon,5.5,8,18,38,60,90,UASB_POP
+C05,Loamy soils,Monsoon,5.5,8,18,38,60,90,UASB_POP
+C05,Red sandy loam soils,Monsoon,5.5,8,18,38,60,90,UASB_POP
+C05,Red loamy soils,Post-monsoon,5.5,8,16,35,55,85,UASB_POP
+C06,Red sandy loam soils,Post-monsoon,5,7.5,15,32,,,UASB_POP
+C06,Sandy soils,Post-monsoon,5,7.5,15,32,,,UASB_POP
+C06,Red sandy loam soils,Winter,5,7.5,12,30,,,UASB_POP
+C06,Sandy soils,Winter,5,7.5,12,30,,,UASB_POP
+C07,Red loamy soils,Post-monsoon,6,8,14,30,40,75,ICAR_IIPR
+C07,Sandy clay loam soils,Post-monsoon,6,8,14,30,40,75,ICAR_IIPR
+C07,Red loamy soils,Winter,6,8,10,28,35,70,ICAR_IIPR
+C08,Red sandy loam soils,Monsoon,5.5,7.5,20,35,50,85,ICAR_IIOR
+C08,Red loamy soils,Monsoon,5.5,7.5,20,35,50,85,ICAR_IIOR
+C08,Red sandy loam soils,Summer,5.5,7.5,22,38,40,75,ICAR_IIOR
+C09,Red sandy loam soils,Monsoon,5.5,7.5,20,35,50,85,ICAR_IIPR
+C09,Red loamy soils,Monsoon,5.5,7.5,20,35,50,85,ICAR_IIPR
+C09,Sandy clay loam soils,Monsoon,5.5,7.5,20,35,50,85,ICAR_IIPR
+C10,Red sandy loam soils,Monsoon,5.5,8.5,20,38,40,80,ICAR_IIMR
+C10,Red loamy soils,Monsoon,5.5,8.5,20,38,40,80,ICAR_IIMR
+C10,Red sandy loam soils,Post-monsoon,5.5,8.5,16,34,35,75,ICAR_IIMR
+C10,Sandy clay loam soils,Post-monsoon,5.5,8.5,16,34,35,75,ICAR_IIMR

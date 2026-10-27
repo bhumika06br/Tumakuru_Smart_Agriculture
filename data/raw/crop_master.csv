@@ -1,0 +1,11 @@
+crop_id,crop_name,scientific_name,crop_category,crop_duration_type
+C01,Coconut,Cocos nucifera,Plantation crop,Perennial
+C02,Arecanut,Areca catechu,Plantation crop,Perennial
+C03,Ragi (Finger millet),Eleusine coracana,Cereal,Annual
+C04,Paddy (Rice),Oryza sativa,Cereal,Annual
+C05,Banana,Musa spp.,Fruit crop,Perennial
+C06,Horsegram,Macrotyloma uniflorum,Pulse,Annual
+C07,Chickpea (Bengal gram),Cicer arietinum,Pulse,Annual
+C08,Groundnut,Arachis hypogaea,Oilseed,Annual
+C09,Redgram (Pigeon pea),Cajanus cajan,Pulse,Annual
+C10,Jowar (Sorghum),Sorghum bicolor,Cereal,Annual

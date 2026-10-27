@@ -1,0 +1,11 @@
+fertilizer_id,fertilizer_name,n_percent,p2o5_percent,k2o_percent,secondary_nutrients,application_basis,source
+F01,Urea,46,0,0,,Nutrient composition only,Typical_grade_verify_product_label
+F02,Single Super Phosphate (SSP),0,16,0,Sulfur Calcium,Nutrient composition only,Typical_grade_verify_product_label
+F03,Muriate of Potash (MOP),0,0,60,Chloride,Nutrient composition only,Typical_grade_verify_product_label
+F04,Diammonium Phosphate (DAP),18,46,0,,Nutrient composition only,Typical_grade_verify_product_label
+F05,NPK 10-26-26,10,26,26,,Nutrient composition only,Typical_grade_verify_product_label
+F06,NPK 17-17-17,17,17,17,,Nutrient composition only,Typical_grade_verify_product_label
+F07,NPK 20-20-0-13,20,20,0,Sulfur 13%,Nutrient composition only,Typical_grade_verify_product_label
+F08,Ammonium Sulphate,21,0,0,Sulfur ~24%,Nutrient composition only,Typical_grade_verify_product_label
+F09,Calcium Ammonium Nitrate (CAN),26,0,0,Calcium,Nutrient composition only,Typical_grade_verify_product_label
+F10,Sulphate of Potash (SOP),0,0,50,Sulfur ~18%,Nutrient composition only,Typical_grade_verify_product_label

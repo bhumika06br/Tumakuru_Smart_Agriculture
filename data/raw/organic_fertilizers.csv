@@ -1,0 +1,11 @@
+fertilizer_id,fertilizer_name,n_percent,p_percent,k_percent,typical_application_rate,quantity_unit,application_basis,source
+O01,Farmyard manure (FYM),0.5,0.2,0.5,10000,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O02,Vermicompost,1.5,1,1.5,5000,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O03,Neem cake,5.2,1,1.4,500,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O04,Poultry manure,3,2.5,1.5,3000,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O05,Compost,1,0.5,1,10000,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O06,Green manure,2.5,0.5,1.2,12500,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O07,Bone meal,3.5,20,0.2,250,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O08,Wood ash,0,1.5,5,500,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O09,Castor cake,5.5,1.8,1.3,500,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified
+O10,Pressmud,2,2,1,5000,kg/ha,General illustrative rate,Provisional_variable_composition_P_K_form_unverified

@@ -1,0 +1,935 @@
+sample_id,scenario_id,N,P,K,pH,air_temperature,air_humidity,soil_type,season,crop_id,suitability_label,label_source
+SMP00001,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00002,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00003,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00004,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00005,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00006,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00007,SCN0001,56.79,19.2,90.9,6.75,20.47,66.92,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00008,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00009,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00010,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00011,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00012,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00013,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00014,SCN0002,33.58,7.81,75.48,7.21,21.39,70.56,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00015,SCN0003,95.39,7.85,83.03,5.65,23.04,76.22,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00016,SCN0003,95.39,7.85,83.03,5.65,23.04,76.22,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00017,SCN0003,95.39,7.85,83.03,5.65,23.04,76.22,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00018,SCN0003,95.39,7.85,83.03,5.65,23.04,76.22,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00019,SCN0004,113.78,10.49,43.99,7.06,18.19,75.08,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00020,SCN0004,113.78,10.49,43.99,7.06,18.19,75.08,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00021,SCN0004,113.78,10.49,43.99,7.06,18.19,75.08,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00022,SCN0004,113.78,10.49,43.99,7.06,18.19,75.08,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00023,SCN0005,41.61,21.64,84.34,7.32,22.75,57.4,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00024,SCN0005,41.61,21.64,84.34,7.32,22.75,57.4,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00025,SCN0005,41.61,21.64,84.34,7.32,22.75,57.4,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00026,SCN0005,41.61,21.64,84.34,7.32,22.75,57.4,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00027,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00028,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00029,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00030,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00031,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00032,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00033,SCN0006,146.77,11.33,79.68,7.05,30.9,80.72,Red loamy soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00034,SCN0007,99.28,18.5,34.12,7.09,29.25,87.16,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00035,SCN0007,99.28,18.5,34.12,7.09,29.25,87.16,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00036,SCN0007,99.28,18.5,34.12,7.09,29.25,87.16,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00037,SCN0007,99.28,18.5,34.12,7.09,29.25,87.16,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00038,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00039,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00040,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00041,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00042,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00043,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00044,SCN0008,57.93,5.22,55.02,6.01,24.38,71.68,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00045,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00046,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00047,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00048,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00049,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00050,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00051,SCN0009,55.14,8.87,114.3,6.56,24.23,62.98,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00052,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00053,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00054,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00055,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00056,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00057,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00058,SCN0010,117.5,6.59,64.15,6.59,28.33,56.06,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00059,SCN0011,112.15,21.54,99.84,7.38,28.85,69.48,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00060,SCN0011,112.15,21.54,99.84,7.38,28.85,69.48,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00061,SCN0011,112.15,21.54,99.84,7.38,28.85,69.48,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00062,SCN0012,62.13,7.64,114.86,5.63,16.61,56.08,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00063,SCN0012,62.13,7.64,114.86,5.63,16.61,56.08,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00064,SCN0012,62.13,7.64,114.86,5.63,16.61,56.08,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00065,SCN0012,62.13,7.64,114.86,5.63,16.61,56.08,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00066,SCN0013,77.48,23.12,71.3,7.12,21.07,67.91,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00067,SCN0013,77.48,23.12,71.3,7.12,21.07,67.91,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00068,SCN0013,77.48,23.12,71.3,7.12,21.07,67.91,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00069,SCN0013,77.48,23.12,71.3,7.12,21.07,67.91,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00070,SCN0014,61.53,15.86,110.8,5.71,24.49,59.64,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00071,SCN0014,61.53,15.86,110.8,5.71,24.49,59.64,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00072,SCN0015,91.14,5.0,34.24,6.32,24.0,94.84,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00073,SCN0015,91.14,5.0,34.24,6.32,24.0,94.84,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00074,SCN0015,91.14,5.0,34.24,6.32,24.0,94.84,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00075,SCN0015,91.14,5.0,34.24,6.32,24.0,94.84,Loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00076,SCN0016,80.66,4.4,64.35,5.8,31.27,89.74,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00077,SCN0016,80.66,4.4,64.35,5.8,31.27,89.74,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00078,SCN0016,80.66,4.4,64.35,5.8,31.27,89.74,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00079,SCN0017,133.29,3.25,94.86,7.39,30.46,89.18,Loamy soils,Summer,C04,1,Synthetic_Rule_Engine
+SMP00080,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00081,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00082,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00083,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00084,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00085,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00086,SCN0018,106.92,5.45,69.13,7.17,28.73,68.05,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00087,SCN0019,61.61,14.01,46.08,6.64,36.99,86.2,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00088,SCN0019,61.61,14.01,46.08,6.64,36.99,86.2,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00089,SCN0019,61.61,14.01,46.08,6.64,36.99,86.2,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00090,SCN0019,61.61,14.01,46.08,6.64,36.99,86.2,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00091,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00092,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00093,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00094,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00095,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00096,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00097,SCN0020,106.67,16.4,43.76,7.7,35.34,68.99,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00098,SCN0021,93.64,3.01,59.17,7.35,26.24,78.3,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00099,SCN0021,93.64,3.01,59.17,7.35,26.24,78.3,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00100,SCN0021,93.64,3.01,59.17,7.35,26.24,78.3,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00101,SCN0021,93.64,3.01,59.17,7.35,26.24,78.3,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00102,SCN0022,129.8,9.77,35.21,5.14,30.71,79.54,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00103,SCN0022,129.8,9.77,35.21,5.14,30.71,79.54,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00104,SCN0022,129.8,9.77,35.21,5.14,30.71,79.54,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00105,SCN0022,129.8,9.77,35.21,5.14,30.71,79.54,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00106,SCN0023,88.32,4.52,98.45,7.12,31.01,43.85,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00107,SCN0024,95.98,8.83,108.52,6.86,14.39,61.39,Red sandy loam soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00108,SCN0025,117.59,7.43,58.05,6.07,15.87,64.27,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00109,SCN0026,92.11,5.66,50.22,7.89,24.37,55.35,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00110,SCN0026,92.11,5.66,50.22,7.89,24.37,55.35,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00111,SCN0026,92.11,5.66,50.22,7.89,24.37,55.35,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00112,SCN0026,92.11,5.66,50.22,7.89,24.37,55.35,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00113,SCN0027,56.43,4.56,86.8,6.71,23.4,48.11,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00114,SCN0027,56.43,4.56,86.8,6.71,23.4,48.11,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00115,SCN0028,38.5,8.24,90.21,6.51,26.22,65.02,Red loamy soils,Winter,C07,1,Synthetic_Rule_Engine
+SMP00116,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00117,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00118,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00119,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00120,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00121,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00122,SCN0029,98.53,13.4,100.62,5.99,22.06,82.66,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00123,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00124,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00125,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00126,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00127,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00128,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00129,SCN0030,81.73,12.32,72.03,7.05,22.92,53.47,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00130,SCN0031,41.81,11.86,60.54,6.91,32.74,74.35,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00131,SCN0031,41.81,11.86,60.54,6.91,32.74,74.35,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00132,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00133,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00134,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00135,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00136,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00137,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00138,SCN0032,83.83,12.28,55.07,7.15,23.78,56.72,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00139,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00140,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00141,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00142,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00143,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00144,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00145,SCN0033,133.36,15.11,34.55,6.05,33.76,65.52,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00146,SCN0034,141.16,21.67,44.97,7.4,32.47,83.82,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00147,SCN0034,141.16,21.67,44.97,7.4,32.47,83.82,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00148,SCN0034,141.16,21.67,44.97,7.4,32.47,83.82,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00149,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00150,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00151,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00152,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00153,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00154,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00155,SCN0035,37.04,11.34,118.68,6.96,23.9,56.06,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00156,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00157,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00158,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00159,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00160,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00161,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00162,SCN0036,80.76,24.06,119.59,6.34,34.06,58.21,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00163,SCN0037,65.6,24.31,82.13,7.16,28.89,41.26,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00164,SCN0037,65.6,24.31,82.13,7.16,28.89,41.26,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00165,SCN0037,65.6,24.31,82.13,7.16,28.89,41.26,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00166,SCN0037,65.6,24.31,82.13,7.16,28.89,41.26,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00167,SCN0038,100.1,14.06,106.74,7.12,29.41,37.38,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00168,SCN0038,100.1,14.06,106.74,7.12,29.41,37.38,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00169,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00170,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00171,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00172,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00173,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00174,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00175,SCN0039,52.3,16.09,90.77,5.88,34.32,62.09,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00176,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00177,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00178,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00179,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00180,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00181,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00182,SCN0040,59.55,16.08,85.74,6.02,21.87,82.18,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00183,SCN0041,142.16,7.49,94.46,6.35,28.74,73.07,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00184,SCN0041,142.16,7.49,94.46,6.35,28.74,73.07,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00185,SCN0041,142.16,7.49,94.46,6.35,28.74,73.07,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00186,SCN0041,142.16,7.49,94.46,6.35,28.74,73.07,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00187,SCN0042,66.0,9.96,97.67,6.03,23.56,71.76,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00188,SCN0042,66.0,9.96,97.67,6.03,23.56,71.76,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00189,SCN0042,66.0,9.96,97.67,6.03,23.56,71.76,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00190,SCN0042,66.0,9.96,97.67,6.03,23.56,71.76,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00191,SCN0043,149.53,4.61,49.18,5.73,24.42,79.86,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00192,SCN0043,149.53,4.61,49.18,5.73,24.42,79.86,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00193,SCN0043,149.53,4.61,49.18,5.73,24.42,79.86,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00194,SCN0043,149.53,4.61,49.18,5.73,24.42,79.86,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00195,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00196,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00197,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00198,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00199,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00200,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00201,SCN0044,135.51,11.13,44.2,6.08,33.91,87.54,Red loamy soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00202,SCN0045,148.47,17.39,30.7,7.1,30.51,82.21,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00203,SCN0045,148.47,17.39,30.7,7.1,30.51,82.21,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00204,SCN0045,148.47,17.39,30.7,7.1,30.51,82.21,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00205,SCN0045,148.47,17.39,30.7,7.1,30.51,82.21,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00206,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00207,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00208,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00209,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00210,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00211,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00212,SCN0046,142.67,5.95,40.39,7.07,24.53,83.24,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00213,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00214,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00215,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00216,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00217,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00218,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00219,SCN0047,102.58,18.79,48.32,5.35,27.39,59.58,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00220,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00221,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00222,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00223,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00224,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00225,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00226,SCN0048,138.64,21.61,38.31,6.56,22.53,67.1,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00227,SCN0049,122.53,17.02,53.58,6.07,22.75,50.22,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00228,SCN0049,122.53,17.02,53.58,6.07,22.75,50.22,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00229,SCN0049,122.53,17.02,53.58,6.07,22.75,50.22,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00230,SCN0050,31.16,4.66,109.48,6.8,24.82,59.98,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00231,SCN0050,31.16,4.66,109.48,6.8,24.82,59.98,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00232,SCN0050,31.16,4.66,109.48,6.8,24.82,59.98,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00233,SCN0050,31.16,4.66,109.48,6.8,24.82,59.98,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00234,SCN0051,99.9,6.26,41.47,7.18,24.72,74.14,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00235,SCN0051,99.9,6.26,41.47,7.18,24.72,74.14,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00236,SCN0051,99.9,6.26,41.47,7.18,24.72,74.14,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00237,SCN0051,99.9,6.26,41.47,7.18,24.72,74.14,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00238,SCN0052,133.28,22.78,48.91,5.81,36.1,67.81,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00239,SCN0052,133.28,22.78,48.91,5.81,36.1,67.81,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00240,SCN0053,136.1,11.94,85.86,6.05,21.93,89.45,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00241,SCN0053,136.1,11.94,85.86,6.05,21.93,89.45,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00242,SCN0053,136.1,11.94,85.86,6.05,21.93,89.45,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00243,SCN0053,136.1,11.94,85.86,6.05,21.93,89.45,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00244,SCN0054,147.14,20.84,109.33,5.88,36.65,91.54,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00245,SCN0054,147.14,20.84,109.33,5.88,36.65,91.54,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00246,SCN0054,147.14,20.84,109.33,5.88,36.65,91.54,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00247,SCN0055,141.7,20.65,107.77,5.64,33.74,73.34,Loamy soils,Summer,C04,1,Synthetic_Rule_Engine
+SMP00248,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00249,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00250,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00251,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00252,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00253,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00254,SCN0056,42.97,22.19,107.27,7.46,23.38,83.56,Red loamy soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00255,SCN0057,66.62,20.5,50.48,6.11,34.27,73.82,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00256,SCN0057,66.62,20.5,50.48,6.11,34.27,73.82,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00257,SCN0057,66.62,20.5,50.48,6.11,34.27,73.82,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00258,SCN0057,66.62,20.5,50.48,6.11,34.27,73.82,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00259,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00260,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00261,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00262,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00263,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00264,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00265,SCN0058,133.72,24.27,55.12,5.65,21.92,69.88,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00266,SCN0059,94.35,23.66,40.38,7.08,23.61,84.34,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00267,SCN0059,94.35,23.66,40.38,7.08,23.61,84.34,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00268,SCN0059,94.35,23.66,40.38,7.08,23.61,84.34,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00269,SCN0059,94.35,23.66,40.38,7.08,23.61,84.34,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00270,SCN0060,61.86,5.38,69.11,7.33,18.1,83.31,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00271,SCN0060,61.86,5.38,69.11,7.33,18.1,83.31,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00272,SCN0060,61.86,5.38,69.11,7.33,18.1,83.31,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00273,SCN0060,61.86,5.38,69.11,7.33,18.1,83.31,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00274,SCN0061,91.37,11.47,81.89,6.78,20.37,67.28,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00275,SCN0062,141.07,14.85,94.75,5.69,24.72,40.08,Red sandy loam soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00276,SCN0063,38.4,17.61,59.72,6.81,24.04,56.39,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00277,SCN0064,66.04,9.8,66.76,6.67,27.5,65.15,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00278,SCN0064,66.04,9.8,66.76,6.67,27.5,65.15,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00279,SCN0064,66.04,9.8,66.76,6.67,27.5,65.15,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00280,SCN0064,66.04,9.8,66.76,6.67,27.5,65.15,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00281,SCN0065,80.45,23.69,90.96,6.82,18.77,44.53,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00282,SCN0065,80.45,23.69,90.96,6.82,18.77,44.53,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00283,SCN0066,95.75,3.01,55.82,7.73,21.06,45.57,Red loamy soils,Winter,C07,1,Synthetic_Rule_Engine
+SMP00284,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00285,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00286,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00287,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00288,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00289,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00290,SCN0067,85.8,12.73,49.23,6.37,28.68,72.88,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00291,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00292,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00293,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00294,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00295,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00296,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00297,SCN0068,50.36,4.87,76.39,6.45,33.44,77.8,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00298,SCN0069,120.14,17.8,50.22,6.74,27.4,68.58,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00299,SCN0069,120.14,17.8,50.22,6.74,27.4,68.58,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00300,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00301,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00302,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00303,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00304,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00305,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00306,SCN0070,87.02,21.69,36.55,5.96,20.46,58.62,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00307,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00308,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00309,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00310,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00311,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00312,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00313,SCN0071,113.56,13.88,51.96,6.35,29.42,56.87,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00314,SCN0072,122.41,5.34,68.26,6.78,20.18,76.23,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00315,SCN0072,122.41,5.34,68.26,6.78,20.18,76.23,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00316,SCN0072,122.41,5.34,68.26,6.78,20.18,76.23,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00317,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00318,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00319,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00320,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00321,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00322,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00323,SCN0073,36.03,8.48,106.35,6.09,37.15,60.71,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00324,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00325,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00326,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00327,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00328,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00329,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00330,SCN0074,148.55,16.1,115.5,6.88,34.37,66.67,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00331,SCN0075,90.57,21.27,79.31,8.1,27.01,63.73,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00332,SCN0075,90.57,21.27,79.31,8.1,27.01,63.73,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00333,SCN0075,90.57,21.27,79.31,8.1,27.01,63.73,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00334,SCN0075,90.57,21.27,79.31,8.1,27.01,63.73,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00335,SCN0076,61.1,8.44,87.39,8.11,29.34,53.99,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00336,SCN0076,61.1,8.44,87.39,8.11,29.34,53.99,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00337,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00338,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00339,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00340,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00341,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00342,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00343,SCN0077,62.95,4.7,55.72,6.98,27.82,75.64,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00344,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00345,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00346,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00347,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00348,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00349,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00350,SCN0078,46.6,8.09,92.46,6.09,24.83,73.5,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00351,SCN0079,95.11,12.15,48.62,6.87,21.05,70.21,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00352,SCN0079,95.11,12.15,48.62,6.87,21.05,70.21,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00353,SCN0079,95.11,12.15,48.62,6.87,21.05,70.21,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00354,SCN0079,95.11,12.15,48.62,6.87,21.05,70.21,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00355,SCN0080,113.46,21.85,98.9,6.36,30.59,69.59,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00356,SCN0080,113.46,21.85,98.9,6.36,30.59,69.59,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00357,SCN0080,113.46,21.85,98.9,6.36,30.59,69.59,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00358,SCN0080,113.46,21.85,98.9,6.36,30.59,69.59,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00359,SCN0081,120.42,21.78,115.81,6.28,18.18,63.82,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00360,SCN0081,120.42,21.78,115.81,6.28,18.18,63.82,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00361,SCN0081,120.42,21.78,115.81,6.28,18.18,63.82,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00362,SCN0081,120.42,21.78,115.81,6.28,18.18,63.82,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00363,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00364,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00365,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00366,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00367,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00368,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00369,SCN0082,102.39,7.85,49.75,6.35,31.16,80.91,Red loamy soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00370,SCN0083,111.5,11.89,44.85,6.38,20.53,76.76,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00371,SCN0083,111.5,11.89,44.85,6.38,20.53,76.76,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00372,SCN0083,111.5,11.89,44.85,6.38,20.53,76.76,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00373,SCN0083,111.5,11.89,44.85,6.38,20.53,76.76,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00374,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00375,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00376,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00377,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00378,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00379,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00380,SCN0084,33.24,11.67,80.8,6.44,21.99,82.42,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00381,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00382,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00383,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00384,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00385,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00386,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00387,SCN0085,85.4,4.11,64.12,5.16,28.9,54.82,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00388,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00389,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00390,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00391,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00392,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00393,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00394,SCN0086,75.5,19.54,104.87,5.59,23.59,76.59,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00395,SCN0087,94.73,25.0,61.5,5.68,19.48,50.77,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00396,SCN0087,94.73,25.0,61.5,5.68,19.48,50.77,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00397,SCN0087,94.73,25.0,61.5,5.68,19.48,50.77,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00398,SCN0088,120.51,23.89,47.94,6.6,28.44,67.78,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00399,SCN0088,120.51,23.89,47.94,6.6,28.44,67.78,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00400,SCN0088,120.51,23.89,47.94,6.6,28.44,67.78,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00401,SCN0088,120.51,23.89,47.94,6.6,28.44,67.78,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00402,SCN0089,110.34,15.41,49.62,5.15,18.51,49.49,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00403,SCN0089,110.34,15.41,49.62,5.15,18.51,49.49,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00404,SCN0089,110.34,15.41,49.62,5.15,18.51,49.49,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00405,SCN0089,110.34,15.41,49.62,5.15,18.51,49.49,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00406,SCN0090,102.87,19.45,40.31,6.71,33.75,45.94,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00407,SCN0090,102.87,19.45,40.31,6.71,33.75,45.94,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00408,SCN0091,33.08,9.86,90.96,7.07,37.27,72.78,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00409,SCN0091,33.08,9.86,90.96,7.07,37.27,72.78,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00410,SCN0091,33.08,9.86,90.96,7.07,37.27,72.78,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00411,SCN0091,33.08,9.86,90.96,7.07,37.27,72.78,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00412,SCN0092,39.12,18.19,86.45,7.32,27.16,87.83,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00413,SCN0092,39.12,18.19,86.45,7.32,27.16,87.83,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00414,SCN0092,39.12,18.19,86.45,7.32,27.16,87.83,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00415,SCN0093,102.05,5.66,118.55,5.78,34.31,86.19,Loamy soils,Summer,C04,1,Synthetic_Rule_Engine
+SMP00416,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00417,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00418,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00419,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00420,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00421,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00422,SCN0094,74.47,14.13,60.71,7.4,24.97,72.87,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00423,SCN0095,145.29,16.98,104.58,7.55,34.38,63.25,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00424,SCN0095,145.29,16.98,104.58,7.55,34.38,63.25,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00425,SCN0095,145.29,16.98,104.58,7.55,34.38,63.25,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00426,SCN0095,145.29,16.98,104.58,7.55,34.38,63.25,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00427,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00428,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00429,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00430,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00431,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00432,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00433,SCN0096,145.86,8.94,102.74,7.23,26.72,81.97,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00434,SCN0097,117.72,8.9,106.65,6.84,25.19,68.08,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00435,SCN0097,117.72,8.9,106.65,6.84,25.19,68.08,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00436,SCN0097,117.72,8.9,106.65,6.84,25.19,68.08,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00437,SCN0097,117.72,8.9,106.65,6.84,25.19,68.08,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00438,SCN0098,59.26,13.22,84.93,7.01,16.56,79.67,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00439,SCN0098,59.26,13.22,84.93,7.01,16.56,79.67,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00440,SCN0098,59.26,13.22,84.93,7.01,16.56,79.67,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00441,SCN0098,59.26,13.22,84.93,7.01,16.56,79.67,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00442,SCN0099,51.82,7.67,101.8,5.97,15.58,78.29,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00443,SCN0100,63.15,3.22,115.33,5.88,27.77,71.55,Red sandy loam soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00444,SCN0101,120.98,18.19,88.13,5.3,24.92,61.99,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00445,SCN0102,56.59,18.22,57.56,6.98,26.63,43.34,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00446,SCN0102,56.59,18.22,57.56,6.98,26.63,43.34,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00447,SCN0102,56.59,18.22,57.56,6.98,26.63,43.34,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00448,SCN0102,56.59,18.22,57.56,6.98,26.63,43.34,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00449,SCN0103,81.06,19.41,59.77,7.15,21.58,58.58,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00450,SCN0103,81.06,19.41,59.77,7.15,21.58,58.58,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00451,SCN0104,44.48,7.24,40.76,7.37,14.92,43.85,Red loamy soils,Winter,C07,1,Synthetic_Rule_Engine
+SMP00452,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00453,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00454,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00455,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00456,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00457,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00458,SCN0105,55.97,13.65,95.21,6.56,31.38,56.54,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00459,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00460,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00461,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00462,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00463,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00464,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00465,SCN0106,42.06,7.27,50.47,7.36,27.86,59.95,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00466,SCN0107,62.92,24.43,79.8,5.92,22.32,58.69,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00467,SCN0107,62.92,24.43,79.8,5.92,22.32,58.69,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00468,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00469,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00470,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00471,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00472,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00473,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00474,SCN0108,88.91,22.2,81.67,6.86,21.97,80.32,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00475,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00476,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00477,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00478,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00479,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00480,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00481,SCN0109,36.17,23.7,73.0,6.44,26.62,56.52,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00482,SCN0110,105.53,4.18,43.43,7.08,26.03,52.68,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00483,SCN0110,105.53,4.18,43.43,7.08,26.03,52.68,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00484,SCN0110,105.53,4.18,43.43,7.08,26.03,52.68,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00485,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00486,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00487,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00488,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00489,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00490,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00491,SCN0111,44.21,19.82,84.57,7.18,25.51,79.66,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00492,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00493,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00494,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00495,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00496,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00497,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00498,SCN0112,84.06,12.74,107.41,7.81,24.12,60.9,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00499,SCN0113,103.16,19.28,115.28,8.37,21.54,59.82,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00500,SCN0113,103.16,19.28,115.28,8.37,21.54,59.82,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00501,SCN0113,103.16,19.28,115.28,8.37,21.54,59.82,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00502,SCN0113,103.16,19.28,115.28,8.37,21.54,59.82,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00503,SCN0114,48.85,6.82,36.76,6.18,19.86,61.39,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00504,SCN0114,48.85,6.82,36.76,6.18,19.86,61.39,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00505,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00506,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00507,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00508,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00509,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00510,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00511,SCN0115,64.95,8.09,93.63,5.6,26.77,74.83,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00512,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00513,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00514,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00515,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00516,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00517,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00518,SCN0116,140.87,20.33,86.26,6.87,26.82,77.15,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00519,SCN0117,95.35,17.25,111.76,6.79,33.92,70.64,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00520,SCN0117,95.35,17.25,111.76,6.79,33.92,70.64,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00521,SCN0117,95.35,17.25,111.76,6.79,33.92,70.64,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00522,SCN0117,95.35,17.25,111.76,6.79,33.92,70.64,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00523,SCN0118,66.91,19.48,81.23,7.09,19.09,59.21,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00524,SCN0118,66.91,19.48,81.23,7.09,19.09,59.21,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00525,SCN0118,66.91,19.48,81.23,7.09,19.09,59.21,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00526,SCN0118,66.91,19.48,81.23,7.09,19.09,59.21,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00527,SCN0119,113.97,23.74,75.04,6.12,19.82,72.18,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00528,SCN0119,113.97,23.74,75.04,6.12,19.82,72.18,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00529,SCN0119,113.97,23.74,75.04,6.12,19.82,72.18,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00530,SCN0119,113.97,23.74,75.04,6.12,19.82,72.18,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00531,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00532,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00533,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00534,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00535,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00536,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00537,SCN0120,81.84,10.09,52.53,6.49,21.29,70.89,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00538,SCN0121,99.02,23.92,119.96,5.76,34.34,86.65,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00539,SCN0121,99.02,23.92,119.96,5.76,34.34,86.65,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00540,SCN0121,99.02,23.92,119.96,5.76,34.34,86.65,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00541,SCN0121,99.02,23.92,119.96,5.76,34.34,86.65,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00542,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00543,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00544,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00545,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00546,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00547,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00548,SCN0122,120.75,13.35,88.64,6.81,24.09,70.9,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00549,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00550,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00551,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00552,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00553,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00554,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00555,SCN0123,106.17,13.82,38.21,7.21,21.15,70.47,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00556,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00557,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00558,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00559,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00560,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00561,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00562,SCN0124,132.93,10.26,92.43,5.9,23.7,73.42,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00563,SCN0125,96.01,13.01,58.31,5.76,33.98,78.41,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00564,SCN0125,96.01,13.01,58.31,5.76,33.98,78.41,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00565,SCN0125,96.01,13.01,58.31,5.76,33.98,78.41,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00566,SCN0126,91.75,24.74,89.19,5.84,31.43,59.17,Red sandy loam soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00567,SCN0126,91.75,24.74,89.19,5.84,31.43,59.17,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00568,SCN0126,91.75,24.74,89.19,5.84,31.43,59.17,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00569,SCN0126,91.75,24.74,89.19,5.84,31.43,59.17,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00570,SCN0127,73.41,19.64,86.29,6.35,22.63,51.63,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00571,SCN0127,73.41,19.64,86.29,6.35,22.63,51.63,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00572,SCN0127,73.41,19.64,86.29,6.35,22.63,51.63,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00573,SCN0127,73.41,19.64,86.29,6.35,22.63,51.63,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00574,SCN0128,141.32,12.64,92.84,6.85,23.72,59.21,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00575,SCN0128,141.32,12.64,92.84,6.85,23.72,59.21,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00576,SCN0129,58.72,6.48,79.58,5.82,37.42,85.2,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00577,SCN0129,58.72,6.48,79.58,5.82,37.42,85.2,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00578,SCN0129,58.72,6.48,79.58,5.82,37.42,85.2,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00579,SCN0129,58.72,6.48,79.58,5.82,37.42,85.2,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00580,SCN0130,139.55,13.15,40.57,6.59,21.76,94.71,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00581,SCN0130,139.55,13.15,40.57,6.59,21.76,94.71,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00582,SCN0130,139.55,13.15,40.57,6.59,21.76,94.71,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00583,SCN0131,91.06,9.02,105.13,7.1,29.97,82.87,Loamy soils,Summer,C04,1,Synthetic_Rule_Engine
+SMP00584,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00585,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00586,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00587,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00588,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00589,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00590,SCN0132,76.03,23.28,75.74,7.85,22.93,76.53,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00591,SCN0133,124.8,12.13,114.08,7.62,35.21,68.33,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00592,SCN0133,124.8,12.13,114.08,7.62,35.21,68.33,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00593,SCN0133,124.8,12.13,114.08,7.62,35.21,68.33,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00594,SCN0133,124.8,12.13,114.08,7.62,35.21,68.33,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00595,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00596,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00597,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00598,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00599,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00600,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00601,SCN0134,65.83,15.91,119.9,6.77,34.35,68.53,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00602,SCN0135,71.41,15.14,78.91,6.73,18.89,71.15,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00603,SCN0135,71.41,15.14,78.91,6.73,18.89,71.15,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00604,SCN0135,71.41,15.14,78.91,6.73,18.89,71.15,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00605,SCN0135,71.41,15.14,78.91,6.73,18.89,71.15,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00606,SCN0136,113.7,15.58,51.02,6.15,20.51,48.49,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00607,SCN0136,113.7,15.58,51.02,6.15,20.51,48.49,Red sandy loam soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00608,SCN0136,113.7,15.58,51.02,6.15,20.51,48.49,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00609,SCN0136,113.7,15.58,51.02,6.15,20.51,48.49,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00610,SCN0137,114.63,20.85,64.75,6.88,15.83,73.51,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00611,SCN0138,89.44,3.81,75.21,6.63,26.71,84.14,Red sandy loam soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00612,SCN0139,82.84,14.57,71.12,6.46,27.58,79.34,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00613,SCN0140,48.52,13.33,117.23,7.4,20.58,62.89,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00614,SCN0140,48.52,13.33,117.23,7.4,20.58,62.89,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00615,SCN0140,48.52,13.33,117.23,7.4,20.58,62.89,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00616,SCN0140,48.52,13.33,117.23,7.4,20.58,62.89,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00617,SCN0141,132.21,21.75,107.34,6.71,25.04,62.71,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00618,SCN0141,132.21,21.75,107.34,6.71,25.04,62.71,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00619,SCN0142,121.13,22.19,33.23,6.78,15.74,60.11,Red loamy soils,Winter,C07,1,Synthetic_Rule_Engine
+SMP00620,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00621,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00622,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00623,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00624,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00625,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00626,SCN0143,149.69,19.43,69.06,5.72,29.44,82.15,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00627,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00628,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00629,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00630,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00631,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00632,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00633,SCN0144,83.24,18.27,111.31,5.78,29.48,80.47,Red loamy soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00634,SCN0145,74.98,6.2,77.8,5.68,34.68,50.31,Red sandy loam soils,Summer,C03,1,Synthetic_Rule_Engine
+SMP00635,SCN0145,74.98,6.2,77.8,5.68,34.68,50.31,Red sandy loam soils,Summer,C08,1,Synthetic_Rule_Engine
+SMP00636,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00637,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00638,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00639,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00640,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00641,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00642,SCN0146,39.48,22.16,85.77,6.62,31.83,56.02,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00643,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00644,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00645,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00646,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00647,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00648,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00649,SCN0147,85.34,8.59,52.98,6.03,33.61,55.08,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00650,SCN0148,111.31,6.48,69.76,5.62,32.01,81.46,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00651,SCN0148,111.31,6.48,69.76,5.62,32.01,81.46,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00652,SCN0148,111.31,6.48,69.76,5.62,32.01,81.46,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00653,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00654,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00655,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00656,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00657,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00658,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00659,SCN0149,80.92,8.5,106.08,6.57,30.56,65.53,Red sandy loam soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00660,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00661,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00662,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00663,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00664,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00665,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00666,SCN0150,58.46,15.58,81.73,6.16,26.95,59.33,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00667,SCN0152,57.61,20.64,49.71,8.13,36.38,82.75,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00668,SCN0153,130.6,16.82,111.31,7.51,31.47,74.82,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00669,SCN0153,130.6,16.82,111.31,7.51,31.47,74.82,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00670,SCN0153,130.6,16.82,111.31,7.51,31.47,74.82,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00671,SCN0153,130.6,16.82,111.31,7.51,31.47,74.82,Red sandy loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00672,SCN0154,45.77,23.01,59.4,7.95,12.9,54.81,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00673,SCN0154,45.77,23.01,59.4,7.95,12.9,54.81,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00674,SCN0154,45.77,23.01,59.4,7.95,12.9,54.81,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00675,SCN0154,45.77,23.01,59.4,7.95,12.9,54.81,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00676,SCN0155,73.9,14.04,54.53,5.6,33.24,89.6,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00677,SCN0155,73.9,14.04,54.53,5.6,33.24,89.6,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00678,SCN0155,73.9,14.04,54.53,5.6,33.24,89.6,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00679,SCN0155,73.9,14.04,54.53,5.6,33.24,89.6,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00680,SCN0156,65.42,22.15,102.38,8.46,37.49,95.78,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00681,SCN0156,65.42,22.15,102.38,8.46,37.49,95.78,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00682,SCN0156,65.42,22.15,102.38,8.46,37.49,95.78,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00683,SCN0156,65.42,22.15,102.38,8.46,37.49,95.78,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00684,SCN0157,116.91,24.56,117.05,5.36,38.1,88.49,Loamy soils,Summer,C04,0,Synthetic_Rule_Engine
+SMP00685,SCN0158,44.83,11.11,97.41,5.16,22.65,47.98,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00686,SCN0160,128.86,23.01,57.2,8.46,17.98,34.3,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00687,SCN0161,89.11,5.14,109.85,5.36,37.55,50.7,Loamy soils,Summer,C04,0,Synthetic_Rule_Engine
+SMP00688,SCN0162,143.52,12.22,96.8,6.61,30.1,80.53,Red sandy loam soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00689,SCN0163,142.69,9.15,92.13,7.42,34.51,71.86,Red sandy loam soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00690,SCN0164,147.71,11.08,111.15,6.58,18.38,54.66,Red sandy loam soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00691,SCN0168,43.19,22.06,41.86,8.75,26.59,84.3,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00692,SCN0168,43.19,22.06,41.86,8.75,26.59,84.3,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00693,SCN0168,43.19,22.06,41.86,8.75,26.59,84.3,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00694,SCN0169,45.21,12.26,40.23,7.16,12.43,48.04,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00695,SCN0169,45.21,12.26,40.23,7.16,12.43,48.04,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00696,SCN0169,45.21,12.26,40.23,7.16,12.43,48.04,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00697,SCN0170,84.24,7.87,85.36,6.59,21.78,70.37,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00698,SCN0171,87.48,11.84,91.75,6.63,38.03,34.14,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00699,SCN0173,90.67,12.46,101.38,6.32,28.13,50.05,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00700,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00701,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00702,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00703,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00704,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00705,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00706,SCN0174,129.29,11.77,95.67,6.52,35.98,58.14,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00707,SCN0177,142.94,12.3,112.43,7.48,23.09,89.41,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00708,SCN0178,55.53,17.45,50.18,7.2,21.49,69.3,Red loamy soils,Post-monsoon,C01,1,Synthetic_Rule_Engine
+SMP00709,SCN0178,55.53,17.45,50.18,7.2,21.49,69.3,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00710,SCN0178,55.53,17.45,50.18,7.2,21.49,69.3,Red loamy soils,Post-monsoon,C05,1,Synthetic_Rule_Engine
+SMP00711,SCN0178,55.53,17.45,50.18,7.2,21.49,69.3,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00712,SCN0179,98.89,20.76,106.06,8.18,21.92,81.86,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00713,SCN0179,98.89,20.76,106.06,8.18,21.92,81.86,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00714,SCN0179,98.89,20.76,106.06,8.18,21.92,81.86,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00715,SCN0179,98.89,20.76,106.06,8.18,21.92,81.86,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00716,SCN0181,78.09,6.12,86.99,4.82,35.49,68.51,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00717,SCN0181,78.09,6.12,86.99,4.82,35.49,68.51,Sandy clay loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00718,SCN0185,148.13,4.21,48.4,6.91,20.33,45.0,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00719,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00720,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00721,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00722,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00723,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00724,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00725,SCN0186,89.69,12.47,41.63,7.86,19.82,38.16,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00726,SCN0188,98.81,18.61,67.59,8.48,35.28,69.15,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00727,SCN0189,104.18,21.3,112.78,4.88,20.77,84.49,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00728,SCN0190,92.88,11.71,57.92,8.18,18.57,70.04,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00729,SCN0191,43.68,14.22,111.53,6.13,16.54,64.71,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00730,SCN0191,43.68,14.22,111.53,6.13,16.54,64.71,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00731,SCN0191,43.68,14.22,111.53,6.13,16.54,64.71,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00732,SCN0192,58.35,6.22,47.75,7.71,34.11,85.42,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00733,SCN0192,58.35,6.22,47.75,7.71,34.11,85.42,Sandy clay loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00734,SCN0194,148.38,10.11,117.39,7.52,35.82,73.72,Sandy soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00735,SCN0195,125.56,16.01,61.67,6.56,24.66,72.93,Sandy clay loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00736,SCN0195,125.56,16.01,61.67,6.56,24.66,72.93,Sandy clay loam soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00737,SCN0195,125.56,16.01,61.67,6.56,24.66,72.93,Sandy clay loam soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00738,SCN0196,64.45,17.18,117.96,6.65,13.02,55.07,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00739,SCN0196,64.45,17.18,117.96,6.65,13.02,55.07,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00740,SCN0196,64.45,17.18,117.96,6.65,13.02,55.07,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00741,SCN0196,64.45,17.18,117.96,6.65,13.02,55.07,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00742,SCN0197,137.51,12.89,102.88,6.65,26.97,83.84,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00743,SCN0198,84.06,20.84,105.36,7.22,25.54,95.13,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00744,SCN0198,84.06,20.84,105.36,7.22,25.54,95.13,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00745,SCN0198,84.06,20.84,105.36,7.22,25.54,95.13,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00746,SCN0198,84.06,20.84,105.36,7.22,25.54,95.13,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00747,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00748,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00749,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00750,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00751,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00752,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00753,SCN0199,92.89,16.42,62.75,4.96,31.11,97.39,Red loamy soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00754,SCN0201,138.76,22.21,60.0,5.94,31.54,74.65,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00755,SCN0203,45.34,18.46,115.24,7.04,29.37,52.34,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00756,SCN0203,45.34,18.46,115.24,7.04,29.37,52.34,Red loamy soils,Post-monsoon,C03,1,Synthetic_Rule_Engine
+SMP00757,SCN0203,45.34,18.46,115.24,7.04,29.37,52.34,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00758,SCN0203,45.34,18.46,115.24,7.04,29.37,52.34,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00759,SCN0205,131.33,5.23,99.38,5.71,15.71,35.25,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00760,SCN0205,131.33,5.23,99.38,5.71,15.71,35.25,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00761,SCN0205,131.33,5.23,99.38,5.71,15.71,35.25,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00762,SCN0205,131.33,5.23,99.38,5.71,15.71,35.25,Loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00763,SCN0208,86.28,21.37,63.11,6.94,20.36,84.99,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00764,SCN0208,86.28,21.37,63.11,6.94,20.36,84.99,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00765,SCN0208,86.28,21.37,63.11,6.94,20.36,84.99,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00766,SCN0208,86.28,21.37,63.11,6.94,20.36,84.99,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00767,SCN0209,93.3,24.26,103.52,6.65,19.61,55.97,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00768,SCN0212,77.57,11.23,64.75,8.34,37.12,58.21,Red sandy loam soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00769,SCN0213,115.76,10.38,43.14,5.7,20.6,36.74,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00770,SCN0213,115.76,10.38,43.14,5.7,20.6,36.74,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00771,SCN0213,115.76,10.38,43.14,5.7,20.6,36.74,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00772,SCN0213,115.76,10.38,43.14,5.7,20.6,36.74,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00773,SCN0214,121.06,13.32,85.38,8.47,24.76,86.52,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00774,SCN0214,121.06,13.32,85.38,8.47,24.76,86.52,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00775,SCN0214,121.06,13.32,85.38,8.47,24.76,86.52,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00776,SCN0214,121.06,13.32,85.38,8.47,24.76,86.52,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00777,SCN0216,125.27,13.06,39.98,6.0,13.29,58.55,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00778,SCN0216,125.27,13.06,39.98,6.0,13.29,58.55,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00779,SCN0216,125.27,13.06,39.98,6.0,13.29,58.55,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00780,SCN0217,64.95,3.03,61.75,7.33,27.53,78.86,Loamy soils,Summer,C04,1,Synthetic_Rule_Engine
+SMP00781,SCN0218,73.27,23.97,78.97,5.55,30.04,65.6,Sandy soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00782,SCN0220,99.83,19.65,42.01,5.76,29.74,37.05,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00783,SCN0220,99.83,19.65,42.01,5.76,29.74,37.05,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00784,SCN0220,99.83,19.65,42.01,5.76,29.74,37.05,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00785,SCN0220,99.83,19.65,42.01,5.76,29.74,37.05,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00786,SCN0221,85.75,18.3,86.86,8.05,16.73,82.98,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00787,SCN0221,85.75,18.3,86.86,8.05,16.73,82.98,Sandy clay loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00788,SCN0222,54.19,20.4,109.72,7.66,37.48,32.51,Red sandy loam soils,Summer,C03,0,Synthetic_Rule_Engine
+SMP00789,SCN0222,54.19,20.4,109.72,7.66,37.48,32.51,Red sandy loam soils,Summer,C08,0,Synthetic_Rule_Engine
+SMP00790,SCN0223,60.4,19.57,47.2,6.86,38.71,66.93,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00791,SCN0223,60.4,19.57,47.2,6.86,38.71,66.93,Sandy clay loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00792,SCN0226,65.25,5.26,59.51,6.52,38.87,42.27,Loamy soils,Summer,C04,0,Synthetic_Rule_Engine
+SMP00793,SCN0227,83.27,12.84,95.41,6.58,31.38,41.33,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00794,SCN0227,83.27,12.84,95.41,6.58,31.38,41.33,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00795,SCN0229,34.18,4.48,100.07,5.37,28.4,83.13,Red sandy loam soils,Summer,C03,0,Synthetic_Rule_Engine
+SMP00796,SCN0229,34.18,4.48,100.07,5.37,28.4,83.13,Red sandy loam soils,Summer,C08,0,Synthetic_Rule_Engine
+SMP00797,SCN0230,111.49,23.87,63.48,6.33,27.32,71.15,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00798,SCN0230,111.49,23.87,63.48,6.33,27.32,71.15,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00799,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00800,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00801,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00802,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00803,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C08,1,Synthetic_Rule_Engine
+SMP00804,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C09,1,Synthetic_Rule_Engine
+SMP00805,SCN0231,59.95,5.5,96.21,6.92,22.75,74.17,Red loamy soils,Monsoon,C10,1,Synthetic_Rule_Engine
+SMP00806,SCN0233,137.84,12.79,37.9,5.29,35.03,60.74,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00807,SCN0233,137.84,12.79,37.9,5.29,35.03,60.74,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00808,SCN0233,137.84,12.79,37.9,5.29,35.03,60.74,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00809,SCN0233,137.84,12.79,37.9,5.29,35.03,60.74,Loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00810,SCN0234,65.99,6.47,93.86,7.64,26.85,49.74,Sandy clay loam soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00811,SCN0234,65.99,6.47,93.86,7.64,26.85,49.74,Sandy clay loam soils,Post-monsoon,C10,1,Synthetic_Rule_Engine
+SMP00812,SCN0235,46.67,20.39,32.37,6.84,15.28,43.67,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00813,SCN0235,46.67,20.39,32.37,6.84,15.28,43.67,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00814,SCN0235,46.67,20.39,32.37,6.84,15.28,43.67,Red sandy loam soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00815,SCN0235,46.67,20.39,32.37,6.84,15.28,43.67,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00816,SCN0236,136.11,4.45,65.83,6.67,38.54,38.82,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00817,SCN0238,100.53,19.89,41.61,5.31,34.38,67.49,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00818,SCN0240,96.1,5.75,57.25,8.18,18.77,73.18,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00819,SCN0242,33.4,4.0,87.73,8.17,27.22,86.12,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00820,SCN0243,106.68,13.96,86.44,7.4,32.71,58.33,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00821,SCN0244,65.69,4.61,35.39,6.73,33.73,76.58,Sandy clay loam soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00822,SCN0244,65.69,4.61,35.39,6.73,33.73,76.58,Sandy clay loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00823,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00824,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00825,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C03,1,Synthetic_Rule_Engine
+SMP00826,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00827,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00828,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00829,SCN0247,103.85,8.46,107.88,5.19,19.84,56.12,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00830,SCN0248,49.12,24.91,72.01,8.54,31.47,42.91,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00831,SCN0248,49.12,24.91,72.01,8.54,31.47,42.91,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00832,SCN0248,49.12,24.91,72.01,8.54,31.47,42.91,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00833,SCN0248,49.12,24.91,72.01,8.54,31.47,42.91,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00834,SCN0250,86.47,14.81,106.25,6.78,35.82,74.49,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00835,SCN0250,86.47,14.81,106.25,6.78,35.82,74.49,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00836,SCN0250,86.47,14.81,106.25,6.78,35.82,74.49,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00837,SCN0250,86.47,14.81,106.25,6.78,35.82,74.49,Red loamy soils,Post-monsoon,C07,0,Synthetic_Rule_Engine
+SMP00838,SCN0251,73.91,11.81,81.33,8.33,31.64,81.94,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00839,SCN0251,73.91,11.81,81.33,8.33,31.64,81.94,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00840,SCN0251,73.91,11.81,81.33,8.33,31.64,81.94,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00841,SCN0251,73.91,11.81,81.33,8.33,31.64,81.94,Loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00842,SCN0252,121.73,9.15,119.02,7.01,13.99,64.29,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00843,SCN0252,121.73,9.15,119.02,7.01,13.99,64.29,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00844,SCN0252,121.73,9.15,119.02,7.01,13.99,64.29,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00845,SCN0252,121.73,9.15,119.02,7.01,13.99,64.29,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00846,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00847,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00848,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00849,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00850,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00851,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00852,SCN0254,34.67,18.7,102.36,7.21,22.84,32.74,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00853,SCN0255,141.76,10.01,65.37,5.4,36.11,39.51,Sandy soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00854,SCN0256,88.78,15.38,72.74,7.17,25.7,64.66,Sandy soils,Post-monsoon,C06,1,Synthetic_Rule_Engine
+SMP00855,SCN0257,66.92,22.77,108.49,6.12,14.96,58.32,Red loamy soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00856,SCN0257,66.92,22.77,108.49,6.12,14.96,58.32,Red loamy soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00857,SCN0257,66.92,22.77,108.49,6.12,14.96,58.32,Red loamy soils,Post-monsoon,C05,0,Synthetic_Rule_Engine
+SMP00858,SCN0257,66.92,22.77,108.49,6.12,14.96,58.32,Red loamy soils,Post-monsoon,C07,1,Synthetic_Rule_Engine
+SMP00859,SCN0258,99.42,8.01,34.62,5.86,29.7,96.1,Red loamy soils,Winter,C07,0,Synthetic_Rule_Engine
+SMP00860,SCN0259,75.62,21.08,51.8,6.9,31.47,82.67,Loamy soils,Monsoon,C01,1,Synthetic_Rule_Engine
+SMP00861,SCN0259,75.62,21.08,51.8,6.9,31.47,82.67,Loamy soils,Monsoon,C02,1,Synthetic_Rule_Engine
+SMP00862,SCN0259,75.62,21.08,51.8,6.9,31.47,82.67,Loamy soils,Monsoon,C04,1,Synthetic_Rule_Engine
+SMP00863,SCN0259,75.62,21.08,51.8,6.9,31.47,82.67,Loamy soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00864,SCN0261,46.57,7.56,59.25,8.29,31.87,34.24,Sandy soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00865,SCN0264,97.26,23.56,94.95,7.56,25.2,62.63,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00866,SCN0264,97.26,23.56,94.95,7.56,25.2,62.63,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00867,SCN0264,97.26,23.56,94.95,7.56,25.2,62.63,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00868,SCN0266,140.88,17.43,97.26,4.97,37.79,35.37,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00869,SCN0266,140.88,17.43,97.26,4.97,37.79,35.37,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00870,SCN0266,140.88,17.43,97.26,4.97,37.79,35.37,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00871,SCN0266,140.88,17.43,97.26,4.97,37.79,35.37,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
+SMP00872,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00873,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00874,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00875,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00876,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00877,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00878,SCN0267,62.59,5.4,96.68,8.11,19.32,68.22,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00879,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00880,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00881,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00882,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00883,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00884,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00885,SCN0268,57.94,5.2,59.73,5.0,36.44,45.35,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00886,SCN0269,147.35,6.47,88.76,7.52,15.71,95.59,Loamy soils,Summer,C04,0,Synthetic_Rule_Engine
+SMP00887,SCN0272,142.39,24.17,113.34,8.79,22.72,63.69,Red sandy loam soils,Summer,C03,0,Synthetic_Rule_Engine
+SMP00888,SCN0272,142.39,24.17,113.34,8.79,22.72,63.69,Red sandy loam soils,Summer,C08,0,Synthetic_Rule_Engine
+SMP00889,SCN0274,62.74,20.79,59.76,8.36,15.62,64.29,Sandy soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00890,SCN0276,110.31,7.07,42.66,8.11,25.91,35.9,Sandy soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00891,SCN0277,62.04,10.25,82.42,4.83,22.36,60.38,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00892,SCN0277,62.04,10.25,82.42,4.83,22.36,60.38,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00893,SCN0277,62.04,10.25,82.42,4.83,22.36,60.38,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00894,SCN0279,74.11,7.86,116.16,7.56,29.25,93.96,Sandy soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00895,SCN0280,114.23,23.08,98.16,6.62,38.7,55.41,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00896,SCN0280,114.23,23.08,98.16,6.62,38.7,55.41,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00897,SCN0280,114.23,23.08,98.16,6.62,38.7,55.41,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00898,SCN0280,114.23,23.08,98.16,6.62,38.7,55.41,Loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00899,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00900,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00901,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00902,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C05,1,Synthetic_Rule_Engine
+SMP00903,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00904,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00905,SCN0281,93.06,14.62,62.56,7.52,28.09,83.54,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00906,SCN0283,40.91,14.23,102.78,5.26,17.55,69.65,Sandy soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00907,SCN0284,85.49,20.75,95.1,6.85,24.33,33.93,Loamy soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00908,SCN0284,85.49,20.75,95.1,6.85,24.33,33.93,Loamy soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00909,SCN0284,85.49,20.75,95.1,6.85,24.33,33.93,Loamy soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00910,SCN0284,85.49,20.75,95.1,6.85,24.33,33.93,Loamy soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00911,SCN0289,116.29,12.33,64.13,7.82,38.42,61.48,Red sandy loam soils,Summer,C03,0,Synthetic_Rule_Engine
+SMP00912,SCN0289,116.29,12.33,64.13,7.82,38.42,61.48,Red sandy loam soils,Summer,C08,0,Synthetic_Rule_Engine
+SMP00913,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C01,0,Synthetic_Rule_Engine
+SMP00914,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C02,0,Synthetic_Rule_Engine
+SMP00915,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00916,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C05,0,Synthetic_Rule_Engine
+SMP00917,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C08,0,Synthetic_Rule_Engine
+SMP00918,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00919,SCN0290,135.02,19.84,32.9,6.64,16.19,42.82,Red sandy loam soils,Monsoon,C10,0,Synthetic_Rule_Engine
+SMP00920,SCN0291,83.57,17.78,108.5,5.76,13.82,70.39,Loamy soils,Summer,C04,0,Synthetic_Rule_Engine
+SMP00921,SCN0292,133.65,4.24,75.35,6.41,18.33,44.77,Red sandy loam soils,Summer,C03,0,Synthetic_Rule_Engine
+SMP00922,SCN0292,133.65,4.24,75.35,6.41,18.33,44.77,Red sandy loam soils,Summer,C08,0,Synthetic_Rule_Engine
+SMP00923,SCN0293,101.75,17.8,58.86,8.06,31.75,51.69,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00924,SCN0293,101.75,17.8,58.86,8.06,31.75,51.69,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00925,SCN0293,101.75,17.8,58.86,8.06,31.75,51.69,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00926,SCN0294,63.02,15.25,83.25,8.74,26.07,58.12,Sandy clay loam soils,Monsoon,C03,0,Synthetic_Rule_Engine
+SMP00927,SCN0294,63.02,15.25,83.25,8.74,26.07,58.12,Sandy clay loam soils,Monsoon,C04,0,Synthetic_Rule_Engine
+SMP00928,SCN0294,63.02,15.25,83.25,8.74,26.07,58.12,Sandy clay loam soils,Monsoon,C09,0,Synthetic_Rule_Engine
+SMP00929,SCN0295,107.2,11.39,77.2,7.02,13.27,53.42,Red sandy loam soils,Winter,C06,1,Synthetic_Rule_Engine
+SMP00930,SCN0297,96.87,5.95,51.86,8.46,27.18,95.81,Red sandy loam soils,Winter,C06,0,Synthetic_Rule_Engine
+SMP00931,SCN0298,41.1,18.94,47.14,7.39,36.9,87.61,Red sandy loam soils,Post-monsoon,C01,0,Synthetic_Rule_Engine
+SMP00932,SCN0298,41.1,18.94,47.14,7.39,36.9,87.61,Red sandy loam soils,Post-monsoon,C03,0,Synthetic_Rule_Engine
+SMP00933,SCN0298,41.1,18.94,47.14,7.39,36.9,87.61,Red sandy loam soils,Post-monsoon,C06,0,Synthetic_Rule_Engine
+SMP00934,SCN0298,41.1,18.94,47.14,7.39,36.9,87.61,Red sandy loam soils,Post-monsoon,C10,0,Synthetic_Rule_Engine
